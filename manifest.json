@@ -1,0 +1,20 @@
+{
+  "name": "BreakTimer",
+  "description": "Monitor how long you've been working to suggest break times",
+  "version": "1.1",
+  "permissions": [
+    "activeTab",
+    "alarms",
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+      "default_title": "Set break timers",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
