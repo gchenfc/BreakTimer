@@ -1,0 +1,60 @@
+<!-- An html page containing 4 checkboxes with descriptions -->
+<!doctype html>
+<html>
+  <head>
+    <title>Break Timer Options</title>
+    <style>
+    body {
+      /* overflow: hidden; */
+      margin: auto;
+      margin-top: 100px;
+      padding: 0px;
+      background: skyblue;
+      max-width: 600px;
+      font-size: 20pt;
+    }
+
+    input {
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    h1 {
+      font-size: 40pt;
+    }
+
+    input {
+      width: 20px;
+      height: 20px;
+    }
+
+    div input {
+      margin-left: 50px;
+    }
+    </style>
+    <script src="options.js"></script>
+  </head>
+  <body>
+    <h1>Break Time Page View Options</h1>
+
+    <input type="checkbox" id="AI_img" name="AI_img">
+    <label for="AI_img">AI "inspirational" image</label><br>
+
+    <input type="checkbox" id="quote" name="quote">
+    <label for="quote">Inspirational Quote</label><br>
+
+    <input type="checkbox" id="yoga_pose" name="yoga_pose">
+    <label for="yoga_pose">Yoga Pose:</label><br>
+    <div>
+      <input type="checkbox" id="yoga_pose_name" name="yoga_pose_name">
+      <label for="yoga_pose_name">Name</label><br>
+      <input type="checkbox" id="yoga_pose_desc" name="yoga_pose_desc">
+      <label for="yoga_pose_desc">Description</label><br>
+      <input type="checkbox" id="yoga_pose_img" name="yoga_pose_img">
+      <label for="yoga_pose_img">Image</label><br>
+    </div>
+
+    <input type="checkbox" id="french_word" name="french_word">
+    <label for="french_word">French Word</label><br>
+  </body>
+</html>
