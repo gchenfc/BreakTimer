@@ -1,5 +1,6 @@
-function getRandomZipfIndex(size) {
-    var alpha = 0.95; // Alpha parameter of Zipf's law. Adjust this to tweak the distribution.
+function getRandomZipfIndex(size, alpha=0.95) {
+    // Alpha parameter of Zipf's law. Adjust this to tweak the distribution.
+
     var zetan = 0;
     var sum = 0;
     var limit = size;

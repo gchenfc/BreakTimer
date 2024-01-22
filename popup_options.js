@@ -22,6 +22,12 @@ function updateCheckboxState() {
       }
     });
   });
+
+  // And for the numerical input text box zipf_parameter
+  chrome.storage.sync.get({ 'zipf_parameter': 1.15 }, function(data) {
+    const input = document.getElementById('zipf_parameter');
+    input.value = data['zipf_parameter'];
+  });
 }
 
 // Function to save the checkbox state to chrome.storage.sync
@@ -31,6 +37,12 @@ function saveCheckboxState(id) {
   state[id] = checkbox.checked;
   chrome.storage.sync.set(state);
 }
+function saveZipfParameter(id) {
+  const input = document.getElementById(id);
+  let state = {};
+  state[id] = parseFloat(input.value);
+  chrome.storage.sync.set(state);
+}
 
 // Event listener for checkboxes
 function setupListeners() {
@@ -38,6 +50,9 @@ function setupListeners() {
     checkbox.addEventListener('change', () => {
       saveCheckboxState(checkbox.id);
     });
+  });
+  document.getElementById('zipf_parameter').addEventListener('change', () => {
+    saveZipfParameter('zipf_parameter');
   });
 }
 
