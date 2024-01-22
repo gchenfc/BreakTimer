@@ -37,15 +37,6 @@ function setupListeners() {
   document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
     checkbox.addEventListener('change', () => {
       saveCheckboxState(checkbox.id);
-
-      // Special handling for yoga_pose checkbox
-      if (checkbox.id === 'yoga_pose') {
-        ['yoga_pose_name', 'yoga_pose_desc', 'yoga_pose_img'].forEach(yogaId => {
-          const yogaCheckbox = document.getElementById(yogaId);
-          yogaCheckbox.disabled = !checkbox.checked;
-          yogaCheckbox.parentElement.style.color = yogaCheckbox.disabled ? 'gray' : 'black';
-        });
-      }
     });
   });
 }

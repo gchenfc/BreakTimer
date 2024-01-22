@@ -50,8 +50,9 @@ function populate_yoga(display) {
 
         var pose = all_poses[getRandomInt(all_poses.length)];
         this.document.getElementById("yoga_pose_name").innerHTML = `${pose.english_name} (${pose.sanskrit_name})`;
+        this.document.getElementById("yoga_pose_etymology").innerHTML = `${pose.translation_name}`;
         this.document.getElementById("yoga_pose_img").src = pose.url_svg;
-        this.document.getElementById("yoga_pose_desc").innerHTML = `${pose.translation_name}<br /><br />${pose.pose_benefits}<br /><br />${pose.pose_description}`;
+        this.document.getElementById("yoga_pose_desc").innerHTML = `${pose.pose_benefits}<br /><br />${pose.pose_description}`;
     } else {
         this.document.getElementById("yoga").style.display = 'none';
     }
