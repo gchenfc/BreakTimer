@@ -3,38 +3,90 @@
   <head>
     <title>Breaktime Inspiration</title>
     <style>
-    body {
-      /* overflow: hidden; */
-      margin: 0px;
-      padding: 0px;
-      background: skyblue;
-    }
+      body {
+        /* overflow: hidden; */
+        margin: 0px;
+        padding: 0px;
+        background: skyblue;
+      }
 
-    div {
-      text-align: center;
-      padding: 50px;
-      font-family: cursive;
-      font-size: 30pt;
-      background: blue;
-      color: whitesmoke;
-    }
+      div {
+        text-align: center;
+        padding: 10px;
+        font-size: 20pt;
+        background: blue;
+        color: whitesmoke;
+        max-width: 800px;
+        margin: 5px auto 5px auto;
+        border-radius: 20px;
+        box-shadow: 5px 5px 15px #243127;
+      }
+      
+      h3 {
+        margin: 10px;
+      }
+
+      p {
+        margin: 5px;
+      }
+
+      /* #243127
+      #a46379
+      #feb640
+      #ffdf7c
+      #fdefc0 */
+
+      #time {
+        background-color: skyblue;
+        font-size: 40pt;
+        padding: 50px;
+        box-shadow: none;
+      }
+
+      #french {
+        font-family: serif;
+        background: #ffdf7c;
+        color: #a46379;
+      }
+
+      #yoga {
+        font-family: fantasy;
+        background: #f3af52;
+        color: white;
+      }
+      #yoga p {
+        font-size: 12pt;
+      }
+
+      #quote {
+        background: #a46379;
+        color: white;
+        font-family: cursive;
+        max-height: 500px;
+        overflow: auto;
+      }
+
+      #AI_img_div {
+        background: #f3af52;
+      }
     </style>
     <script src="breaktime.js"></script>
   </head>
   <body>
-    <div id="time" style="background-color: skyblue;"></div>
-    <img id="AI_img" style="max-width:100%; display:block; margin:auto;"/>
-    <div id="quote">Dummy</div>
-    <div id="yoga">
-      <div id="yoga_pose_name">Dummy</div>
-      <div id="yoga_pose_desc">Dummy</div>
-      <img id="yoga_pose_img" style="max-width:100%; display:block; margin:auto;"/>
-    </div>
+    <div id="time""></div>
     <div id="french">
-      <h3 id="word"></h3>
-      <p id="example"></p>
+      <h3 id="word">Dummy French Word</h3>
+      <p id="example">Dummy French Sentence</p>
     </div>
-    <div style="background-color: tan;"></div>
+    <div id="yoga">
+      <h3 id="yoga_pose_name">Dummy Yoga Pose</h3>
+      <img id="yoga_pose_img" style="max-width:100%; max-height: 400px; display:block; margin:auto;"/>
+      <p id="yoga_pose_desc">Dummy Yoga Pose Description</p>
+    </div>
+    <div id="quote">Dummy Quote</div>
+    <div id="AI_img_div">
+      <img id="AI_img" style="max-width:100%; max-height: 400px; display:block; margin:auto;"/>
+    </div>
     <audio id="break" src="assets/breakalert.mp3" preload="auto"></audio>
     <audio id="return" src="assets/returnalert.mp3" preload="auto"></audio>
   </body>
