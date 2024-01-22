@@ -1,0 +1,3307 @@
+[
+  {
+    "French": "comme",
+    "English": "as",
+    "SampleSentence": "Il parle comme un expert."
+  },
+  {
+    "French": "je",
+    "English": "I",
+    "SampleSentence": "Je suis fatigu\u00e9."
+  },
+  {
+    "French": "son",
+    "English": "his/her/its",
+    "SampleSentence": "Son chapeau est rouge."
+  },
+  {
+    "French": "que",
+    "English": "that",
+    "SampleSentence": "Je pense que c'est vrai."
+  },
+  {
+    "French": "il",
+    "English": "he",
+    "SampleSentence": "Il est all\u00e9 \u00e0 la boutique."
+  },
+  {
+    "French": "\u00e9tait",
+    "English": "was",
+    "SampleSentence": "Il \u00e9tait \u00e0 la f\u00eate hier."
+  },
+  {
+    "French": "pour",
+    "English": "for",
+    "SampleSentence": "C'est pour toi."
+  },
+  {
+    "French": "sur",
+    "English": "on/upon",
+    "SampleSentence": "Le livre est sur la table."
+  },
+  {
+    "French": "sont",
+    "English": "are",
+    "SampleSentence": "Ils sont gentils."
+  },
+  {
+    "French": "avec",
+    "English": "with",
+    "SampleSentence": "Elle est avec sa s\u0153ur."
+  },
+  {
+    "French": "ils",
+    "English": "they",
+    "SampleSentence": "Ils arrivent demain."
+  },
+  {
+    "French": "\u00eatre",
+    "English": "to be",
+    "SampleSentence": "Elle aspire \u00e0 \u00eatre m\u00e9decin."
+  },
+  {
+    "French": "\u00e0",
+    "English": "to/at",
+    "SampleSentence": "Elle va \u00e0 l'\u00e9cole."
+  },
+  {
+    "French": "un",
+    "English": "A/An",
+    "SampleSentence": "Un chien aboie."
+  },
+  {
+    "French": "avoir",
+    "English": "to have",
+    "SampleSentence": "J'ai un chat."
+  },
+  {
+    "French": "ce",
+    "English": "this/that",
+    "SampleSentence": "Ce livre est int\u00e9ressant."
+  },
+  {
+    "French": "par",
+    "English": "by",
+    "SampleSentence": "Le cadeau est donn\u00e9 par Alice."
+  },
+  {
+    "French": "chaud",
+    "English": "hot",
+    "SampleSentence": "Le caf\u00e9 est chaud."
+  },
+  {
+    "French": "mot",
+    "English": "word",
+    "SampleSentence": "Elle a oubli\u00e9 le mot."
+  },
+  {
+    "French": "mais",
+    "English": "but",
+    "SampleSentence": "J'aurais aim\u00e9 partir, mais je ne peux pas."
+  },
+  {
+    "French": "tout",
+    "English": "everything",
+    "SampleSentence": "Je veux acheter tout ce qui se trouve dans ce magasin."
+  },
+  {
+    "French": "nouveau",
+    "English": "new",
+    "SampleSentence": "J'ai une nouvelle voiture."
+  },
+  {
+    "French": "travail",
+    "English": "work",
+    "SampleSentence": "Mon travail est tr\u00e8s stressant."
+  },
+  {
+    "French": "partie",
+    "English": "part",
+    "SampleSentence": "La f\u00eate \u00e9tait la meilleure partie de la soir\u00e9e."
+  },
+  {
+    "French": "prendre",
+    "English": "take",
+    "SampleSentence": "Je vais prendre une pomme."
+  },
+  {
+    "French": "obtenir",
+    "English": "obtain",
+    "SampleSentence": "J'ai obtenu une promotion au travail."
+  },
+  {
+    "French": "lieu",
+    "English": "place",
+    "SampleSentence": "J'habite \u00e0 un bel endroit."
+  },
+  {
+    "French": "fabriqu\u00e9",
+    "English": "made",
+    "SampleSentence": "Cette robe a \u00e9t\u00e9 fabriqu\u00e9e en France."
+  },
+  {
+    "French": "vivre",
+    "English": "live",
+    "SampleSentence": "Nous vivons dans une grande ville."
+  },
+  {
+    "French": "o\u00f9",
+    "English": "where",
+    "SampleSentence": "Sais-tu o\u00f9 j'ai mis mes cl\u00e9s?"
+  },
+  {
+    "French": "t\u00eate",
+    "English": "head",
+    "SampleSentence": "Elle a mal \u00e0 la t\u00eate."
+  },
+  {
+    "French": "supporter",
+    "English": "to support",
+    "SampleSentence": "Je vais te supporter dans cette d\u00e9cision."
+  },
+  {
+    "French": "propre",
+    "English": "clean",
+    "SampleSentence": "Assurez-vous de garder la cuisine propre."
+  },
+  {
+    "French": "page",
+    "English": "page",
+    "SampleSentence": "Nous devons tourner la page et aller de l'avant."
+  },
+  {
+    "French": "devrait",
+    "English": "should",
+    "SampleSentence": "Tu devrait faire plus attention."
+  },
+  {
+    "French": "pays",
+    "English": "country",
+    "SampleSentence": "La France est un beau pays."
+  },
+  {
+    "French": "trouv\u00e9",
+    "English": "found",
+    "SampleSentence": "J'ai enfin trouv\u00e9 mes cl\u00e9s."
+  },
+  {
+    "French": "r\u00e9ponse",
+    "English": "answer",
+    "SampleSentence": "Avez-vous la r\u00e9ponse \u00e0 cette question?"
+  },
+  {
+    "French": "\u00e9cole",
+    "English": "school",
+    "SampleSentence": "Mon fils va \u00e0 l'\u00e9cole primaire."
+  },
+  {
+    "French": "cro\u00eetre",
+    "English": "to grow",
+    "SampleSentence": "Les plantes ont commenc\u00e9 \u00e0 cro\u00eetre apr\u00e8s la pluie."
+  },
+  {
+    "French": "\u00e9tude",
+    "English": "study",
+    "SampleSentence": "Je dois me concentrer sur mon \u00e9tude ce soir."
+  },
+  {
+    "French": "encore",
+    "English": "still",
+    "SampleSentence": "Il pleut encore dehors."
+  },
+  {
+    "French": "apprendre",
+    "English": "to learn",
+    "SampleSentence": "C'est important d'apprendre tout au long de la vie."
+  },
+  {
+    "French": "usine",
+    "English": "factory",
+    "SampleSentence": "Il travaille dans une grande usine."
+  },
+  {
+    "French": "couvercle",
+    "English": "lid",
+    "SampleSentence": "N'oublie pas de mettre le couvercle sur la casserole."
+  },
+  {
+    "French": "nourriture",
+    "English": "food",
+    "SampleSentence": "J'adore la nourriture italienne."
+  },
+  {
+    "French": "soleil",
+    "English": "sun",
+    "SampleSentence": "Le soleil se l\u00e8ve \u00e0 l'est."
+  },
+  {
+    "French": "quatre",
+    "English": "four",
+    "SampleSentence": "Il y a quatre saisons dans une ann\u00e9e."
+  },
+  {
+    "French": "entre",
+    "English": "between",
+    "SampleSentence": "Le parc se trouve entre le magasin et l'\u00e9cole."
+  },
+  {
+    "French": "\u00e9tat",
+    "English": "state",
+    "SampleSentence": "Le Texas est un grand \u00e9tat am\u00e9ricain."
+  },
+  {
+    "French": "garder",
+    "English": "to keep",
+    "SampleSentence": "Gardez ce secret pour vous."
+  },
+  {
+    "French": "\u0153il",
+    "English": "eye",
+    "SampleSentence": "Elle a de beaux yeux bleus."
+  },
+  {
+    "French": "jamais",
+    "English": "never",
+    "SampleSentence": "Je ne lui pardonnerai jamais."
+  },
+  {
+    "French": "dernier",
+    "English": "last",
+    "SampleSentence": "C'\u00e9tait le dernier morceau de g\u00e2teau."
+  },
+  {
+    "French": "laisser",
+    "English": "to let",
+    "SampleSentence": "Je vais te laisser faire ton choix."
+  },
+  {
+    "French": "pens\u00e9e",
+    "English": "thought",
+    "SampleSentence": "Elle partageait ses pens\u00e9es avec moi."
+  },
+  {
+    "French": "ville",
+    "English": "city",
+    "SampleSentence": "Paris est une belle ville."
+  },
+  {
+    "French": "arbre",
+    "English": "tree",
+    "SampleSentence": "Nous avons plant\u00e9 un nouvel arbre dans le jardin."
+  },
+  {
+    "French": "traverser",
+    "English": "to cross",
+    "SampleSentence": "Nous devons traverser la rue pour arriver au parc."
+  },
+  {
+    "French": "ferme",
+    "English": "farm",
+    "SampleSentence": "Ma tante a une ferme avec des vaches."
+  },
+  {
+    "French": "dur",
+    "English": "hard",
+    "SampleSentence": "Ce travail est vraiment dur."
+  },
+  {
+    "French": "d\u00e9but",
+    "English": "beginning",
+    "SampleSentence": "C'\u00e9tait le d\u00e9but d'une belle amiti\u00e9."
+  },
+  {
+    "French": "puissance",
+    "English": "power",
+    "SampleSentence": "Ce moteur a beaucoup de puissance."
+  },
+  {
+    "French": "histoire",
+    "English": "history",
+    "SampleSentence": "J'aime \u00e9tudier l'histoire."
+  },
+  {
+    "French": "scie",
+    "English": "saw",
+    "SampleSentence": "Il utilise une scie pour couper le bois."
+  },
+  {
+    "French": "loin",
+    "English": "far",
+    "SampleSentence": "Nous avons march\u00e9 tr\u00e8s loin."
+  },
+  {
+    "French": "mer",
+    "English": "sea",
+    "SampleSentence": "Nous allons passer nos vacances \u00e0 la mer."
+  },
+  {
+    "French": "tirer",
+    "English": "to pull",
+    "SampleSentence": "Elle a r\u00e9ussi \u00e0 tirer le lourd meuble."
+  },
+  {
+    "French": "gauche",
+    "English": "left",
+    "SampleSentence": "Tournez \u00e0 gauche \u00e0 la prochaine intersection."
+  },
+  {
+    "French": "tard",
+    "English": "late",
+    "SampleSentence": "Il est toujours en retard."
+  },
+  {
+    "French": "courir",
+    "English": "to run",
+    "SampleSentence": "J'aime courir le matin pour me mettre en forme."
+  },
+  {
+    "French": "needs",
+    "English": "besoins",
+    "SampleSentence": "Elle fournit la nourriture et les besoins de base \u00e0 sa famille."
+  },
+  {
+    "French": "tandis",
+    "English": "while",
+    "SampleSentence": "Elle lit un livre tandis que je regarde la t\u00e9l\u00e9vision."
+  },
+  {
+    "French": "presse",
+    "English": "media",
+    "SampleSentence": "La presse a beaucoup influenc\u00e9 cette \u00e9lection."
+  },
+  {
+    "French": "proche",
+    "English": "close",
+    "SampleSentence": "Elle est tr\u00e8s proche de sa s\u0153ur."
+  },
+  {
+    "French": "nuit",
+    "English": "night",
+    "SampleSentence": "Il fait noir la nuit."
+  },
+  {
+    "French": "r\u00e9el",
+    "English": "real",
+    "SampleSentence": "C'est une histoire vraie."
+  },
+  {
+    "French": "vie",
+    "English": "life",
+    "SampleSentence": "Elle m\u00e8ne une vie tr\u00e8s occup\u00e9e."
+  },
+  {
+    "French": "peu",
+    "English": "few",
+    "SampleSentence": "Il reste peu de temps avant de partir."
+  },
+  {
+    "French": "nord",
+    "English": "north",
+    "SampleSentence": "Le nord est en haut de la carte."
+  },
+  {
+    "French": "livre",
+    "English": "book",
+    "SampleSentence": "J'aime lire un bon livre le soir."
+  },
+  {
+    "French": "porter",
+    "English": "to carry",
+    "SampleSentence": "Il va porter les sacs de courses."
+  },
+  {
+    "French": "a",
+    "English": "has",
+    "SampleSentence": "Elle a beaucoup de patience."
+  },
+  {
+    "French": "science",
+    "English": "science",
+    "SampleSentence": "La science peut expliquer beaucoup de choses."
+  },
+  {
+    "French": "manger",
+    "English": "to eat",
+    "SampleSentence": "Qu'est-ce que tu veux manger ce soir?"
+  },
+  {
+    "French": "chambre",
+    "English": "room",
+    "SampleSentence": "Ma chambre est en haut de l'escalier."
+  },
+  {
+    "French": "ami",
+    "English": "friend",
+    "SampleSentence": "Elle est ma meilleure amie."
+  },
+  {
+    "French": "id\u00e9e",
+    "English": "idea",
+    "SampleSentence": "J'ai une id\u00e9e g\u00e9niale."
+  },
+  {
+    "French": "poisson",
+    "English": "fish",
+    "SampleSentence": "Nous avons mang\u00e9 du poisson au d\u00eener."
+  },
+  {
+    "French": "montagne",
+    "English": "mountain",
+    "SampleSentence": "Nous aimons faire de la randonn\u00e9e en montagne."
+  },
+  {
+    "French": "Arr\u00eatez",
+    "English": "stop",
+    "SampleSentence": "Arr\u00eatez de faire du bruit."
+  },
+  {
+    "French": "une",
+    "English": "a",
+    "SampleSentence": "Elle a achet\u00e9 une nouvelle voiture."
+  },
+  {
+    "French": "base",
+    "English": "base",
+    "SampleSentence": "Nous devons \u00e9tablir une base solide pour ce projet."
+  },
+  {
+    "French": "entendre",
+    "English": "to hear",
+    "SampleSentence": "Je ne peux pas entendre ce que tu dis."
+  },
+  {
+    "French": "cheval",
+    "English": "horse",
+    "SampleSentence": "Elle aime faire du cheval dans sa ferme."
+  },
+  {
+    "French": "coupe",
+    "English": "cut",
+    "SampleSentence": "Elle a fait une jolie coupe de cheveux."
+  },
+  {
+    "French": "s\u00fbr",
+    "English": "safe",
+    "SampleSentence": "Tu es en s\u00e9curit\u00e9 ici."
+  },
+  {
+    "French": "regarder",
+    "English": "to look",
+    "SampleSentence": "Je vais regarder dehors si le facteur est pass\u00e9."
+  },
+  {
+    "French": "couleur",
+    "English": "color",
+    "SampleSentence": "Quelle est ta couleur pr\u00e9f\u00e9r\u00e9e?"
+  },
+  {
+    "French": "face",
+    "English": "face",
+    "SampleSentence": "Elle avait un sourire doux sur son visage."
+  },
+  {
+    "French": "bois",
+    "English": "wood",
+    "SampleSentence": "Ils ont utilis\u00e9 du bois pour construire la maison."
+  },
+  {
+    "French": "principal",
+    "English": "main",
+    "SampleSentence": "Le principal probl\u00e8me est le manque de communication."
+  },
+  {
+    "French": "ouvert",
+    "English": "open",
+    "SampleSentence": "La porte est ouverte, entrez!"
+  },
+  {
+    "French": "para\u00eetre",
+    "English": "to appear",
+    "SampleSentence": "Il commence \u00e0 para\u00eetre fatigu\u00e9."
+  },
+  {
+    "French": "ensemble",
+    "English": "together",
+    "SampleSentence": "Nous sommes plus forts ensemble."
+  },
+  {
+    "French": "suivant",
+    "English": "next",
+    "SampleSentence": "La prochaine r\u00e9union est pr\u00e9vue pour la semaine suivante."
+  },
+  {
+    "French": "blanc",
+    "English": "white",
+    "SampleSentence": "Elle a achet\u00e9 une belle robe blanche."
+  },
+  {
+    "French": "enfants",
+    "English": "children",
+    "SampleSentence": "Les enfants jouent dans le jardin."
+  },
+  {
+    "French": "commencer",
+    "English": "to start",
+    "SampleSentence": "Il faut commencer quelque part."
+  },
+  {
+    "French": "eu",
+    "English": "had",
+    "SampleSentence": "Nous avons eu une excellente journ\u00e9e."
+  },
+  {
+    "French": "marcher",
+    "English": "to walk",
+    "SampleSentence": "J'adore marcher le long de la plage."
+  },
+  {
+    "French": "exemple",
+    "English": "example",
+    "SampleSentence": "Peux-tu me donner un exemple?"
+  },
+  {
+    "French": "facilit\u00e9",
+    "English": "ease",
+    "SampleSentence": "Elle a fait le travail avec facilit\u00e9."
+  },
+  {
+    "French": "papier",
+    "English": "paper",
+    "SampleSentence": "Tu auras besoin de papier pour \u00e9crire."
+  },
+  {
+    "French": "groupe",
+    "English": "group",
+    "SampleSentence": "Nous avons travaill\u00e9 en groupe sur ce projet."
+  },
+  {
+    "French": "toujours",
+    "English": "always",
+    "SampleSentence": "Je serai toujours l\u00e0 pour toi."
+  },
+  {
+    "French": "musique",
+    "English": "music",
+    "SampleSentence": "J'\u00e9coute de la musique classique."
+  },
+  {
+    "French": "ceux",
+    "English": "those",
+    "SampleSentence": "Ceux qui travaillent dur seront r\u00e9compens\u00e9s."
+  },
+  {
+    "French": "tous",
+    "English": "all",
+    "SampleSentence": "Tous les oiseaux ont migr\u00e9 au sud."
+  },
+  {
+    "French": "marque",
+    "English": "brand",
+    "SampleSentence": "Je pr\u00e9f\u00e8re cette marque \u00e0 l'autre."
+  },
+  {
+    "French": "souvent",
+    "English": "often",
+    "SampleSentence": "Elle vient nous rendre visite assez souvent."
+  },
+  {
+    "French": "lettre",
+    "English": "letter",
+    "SampleSentence": "Elle a envoy\u00e9 une lettre \u00e0 son ami."
+  },
+  {
+    "French": "jusqu\u2019\u00e0",
+    "English": "until",
+    "SampleSentence": "Nous devons travailler jusqu'\u00e0 tard ce soir."
+  },
+  {
+    "French": "mile",
+    "English": "mile",
+    "SampleSentence": "La station essence est \u00e0 un mile d'ici."
+  },
+  {
+    "French": "rivi\u00e8re",
+    "English": "river",
+    "SampleSentence": "Nous avons fait une balade en cano\u00eb sur la rivi\u00e8re."
+  },
+  {
+    "French": "voiture",
+    "English": "car",
+    "SampleSentence": "Elle a une nouvelle voiture rouge."
+  },
+  {
+    "French": "pieds",
+    "English": "feet",
+    "SampleSentence": "Elle a mal aux pieds apr\u00e8s avoir march\u00e9 toute la journ\u00e9e."
+  },
+  {
+    "French": "soins",
+    "English": "care",
+    "SampleSentence": "Elle a beaucoup de soins pour ses plantes."
+  },
+  {
+    "French": "deuxi\u00e8me",
+    "English": "second",
+    "SampleSentence": "Il est arriv\u00e9 en deuxi\u00e8me place \u00e0 la course."
+  },
+  {
+    "French": "assez",
+    "English": "enough",
+    "SampleSentence": "J'ai assez de temps pour terminer le projet."
+  },
+  {
+    "French": "plaine",
+    "English": "plain",
+    "SampleSentence": "Elle pr\u00e9f\u00e8re porter des v\u00eatements simples et plaine."
+  },
+  {
+    "French": "fille",
+    "English": "girl",
+    "SampleSentence": "La fille joue dans le jardin."
+  },
+  {
+    "French": "habituel",
+    "English": "usual",
+    "SampleSentence": "Je vais prendre mon itin\u00e9raire habituel pour aller au travail."
+  },
+  {
+    "French": "jeune",
+    "English": "young",
+    "SampleSentence": "Les jeunes \u00e9tudiants sont tr\u00e8s motiv\u00e9s."
+  },
+  {
+    "French": "pr\u00eat",
+    "English": "ready",
+    "SampleSentence": "Le repas est pr\u00eat \u00e0 \u00eatre servi."
+  },
+  {
+    "French": "au",
+    "English": "at the",
+    "SampleSentence": "Je te retrouverai au restaurant \u00e0 20 heures."
+  },
+  {
+    "French": "jamais",
+    "English": "never",
+    "SampleSentence": "Je n'ai jamais visit\u00e9 ce pays."
+  },
+  {
+    "French": "rouge",
+    "English": "red",
+    "SampleSentence": "Elle adore les roses rouges."
+  },
+  {
+    "French": "liste",
+    "English": "list",
+    "SampleSentence": "J'ai dress\u00e9 une liste de choses \u00e0 faire."
+  },
+  {
+    "French": "bien",
+    "English": "well",
+    "SampleSentence": "\u00c7a s'est tr\u00e8s bien pass\u00e9."
+  },
+  {
+    "French": "sentir",
+    "English": "to feel",
+    "SampleSentence": "Je sens la pluie approcher."
+  },
+  {
+    "French": "parler",
+    "English": "to speak",
+    "SampleSentence": "Elle aime parler plusieurs langues."
+  },
+  {
+    "French": "oiseau",
+    "English": "bird",
+    "SampleSentence": "Le rossignol est un bel oiseau chanteur."
+  },
+  {
+    "French": "bient\u00f4t",
+    "English": "soon",
+    "SampleSentence": "Les vacances arrivent bient\u00f4t."
+  },
+  {
+    "French": "corps",
+    "English": "body",
+    "SampleSentence": "Elle prend soin de son corps en faisant du sport."
+  },
+  {
+    "French": "chien",
+    "English": "dog",
+    "SampleSentence": "Le chien cherche son jouet."
+  },
+  {
+    "French": "famille",
+    "English": "family",
+    "SampleSentence": "La famille se r\u00e9unit pour les f\u00eates de fin d'ann\u00e9e."
+  },
+  {
+    "French": "direct",
+    "English": "direct",
+    "SampleSentence": "Elle a pos\u00e9 une question directe."
+  },
+  {
+    "French": "pose",
+    "English": "pose",
+    "SampleSentence": "Elle adopte une pose \u00e9l\u00e9gante pour la photo."
+  },
+  {
+    "French": "laisser",
+    "English": "to let",
+    "SampleSentence": "Peux-tu me laisser tranquille s'il te pla\u00eet ?"
+  },
+  {
+    "French": "chanson",
+    "English": "song",
+    "SampleSentence": "Cette chanson est tr\u00e8s belle."
+  },
+  {
+    "French": "mesurer",
+    "English": "to measure",
+    "SampleSentence": "Il doit mesurer la longueur de la pi\u00e8ce."
+  },
+  {
+    "French": "porte",
+    "English": "door",
+    "SampleSentence": "La porte est ferm\u00e9e \u00e0 cl\u00e9."
+  },
+  {
+    "French": "produit",
+    "English": "product",
+    "SampleSentence": "Cette entreprise fabrique un large \u00e9ventail de produits."
+  },
+  {
+    "French": "noir",
+    "English": "black",
+    "SampleSentence": "Elle porte une robe noire pour la soir\u00e9e."
+  },
+  {
+    "French": "court",
+    "English": "short",
+    "SampleSentence": "Il a couru sur une distance courte."
+  },
+  {
+    "French": "chiffre",
+    "English": "number",
+    "SampleSentence": "Ce chiffre est difficile \u00e0 lire."
+  },
+  {
+    "French": "classe",
+    "English": "class",
+    "SampleSentence": "Elle est inscrite dans une classe d'art."
+  },
+  {
+    "French": "vent",
+    "English": "wind",
+    "SampleSentence": "Le vent souffle fort aujourd'hui."
+  },
+  {
+    "French": "question",
+    "English": "question",
+    "SampleSentence": "J'ai une question \u00e0 poser."
+  },
+  {
+    "French": "arriver",
+    "English": "to arrive",
+    "SampleSentence": "Il va arriver d'ici quelques minutes."
+  },
+  {
+    "French": "compl\u00e8te",
+    "English": "complete",
+    "SampleSentence": "La t\u00e2che est compl\u00e8te."
+  },
+  {
+    "French": "navire",
+    "English": "ship",
+    "SampleSentence": "Le navire a accost\u00e9 au port ce matin."
+  },
+  {
+    "French": "zone",
+    "English": "zone",
+    "SampleSentence": "C'est une zone pi\u00e9tonne."
+  },
+  {
+    "French": "moiti\u00e9",
+    "English": "half",
+    "SampleSentence": "Elle a mang\u00e9 la moiti\u00e9 de son repas."
+  },
+  {
+    "French": "rock",
+    "English": "rock",
+    "SampleSentence": "Elle aime \u00e9couter du rock en conduisant."
+  },
+  {
+    "French": "ordre",
+    "English": "order",
+    "SampleSentence": "Elle a suivi l'ordre donn\u00e9 par son sup\u00e9rieur."
+  },
+  {
+    "French": "feu",
+    "English": "fire",
+    "SampleSentence": "Le feu de camp \u00e9claire la nuit."
+  },
+  {
+    "French": "sud",
+    "English": "south",
+    "SampleSentence": "Le sud est la direction oppos\u00e9e au nord."
+  },
+  {
+    "French": "probl\u00e8me",
+    "English": "problem",
+    "SampleSentence": "Nous avons rencontr\u00e9 un probl\u00e8me technique."
+  },
+  {
+    "French": "pi\u00e8ce",
+    "English": "room",
+    "SampleSentence": "La pi\u00e8ce est assez spacieuse."
+  },
+  {
+    "French": "dit",
+    "English": "said",
+    "SampleSentence": "Elle a dit bonjour \u00e0 ses voisins."
+  },
+  {
+    "French": "savait",
+    "English": "knew",
+    "SampleSentence": "Elle savait qu'il viendrait la chercher."
+  },
+  {
+    "French": "passer",
+    "English": "to pass",
+    "SampleSentence": "Je vais passer te prendre \u00e0 18 heures."
+  },
+  {
+    "French": "depuis",
+    "English": "since",
+    "SampleSentence": "Je vis ici depuis cinq ans."
+  },
+  {
+    "French": "haut",
+    "English": "high",
+    "SampleSentence": "Le ballon est mont\u00e9 tr\u00e8s haut dans le ciel."
+  },
+  {
+    "French": "ensemble",
+    "English": "together",
+    "SampleSentence": "Nous allons manger ensemble ce soir."
+  },
+  {
+    "French": "roi",
+    "English": "king",
+    "SampleSentence": "Le roi r\u00e8gne sur son royaume."
+  },
+  {
+    "French": "rue",
+    "English": "street",
+    "SampleSentence": "Je te retrouverai \u00e0 l'angle de la rue principale."
+  },
+  {
+    "French": "pouce",
+    "English": "thumb",
+    "SampleSentence": "Elle a cogn\u00e9 son pouce avec un marteau."
+  },
+  {
+    "French": "multiplier",
+    "English": "to multiply",
+    "SampleSentence": "Elle va multiplier les efforts pour r\u00e9ussir."
+  },
+  {
+    "French": "rien",
+    "English": "nothing",
+    "SampleSentence": "Il n'y a rien \u00e0 manger dans le frigo."
+  },
+  {
+    "French": "cours",
+    "English": "course",
+    "SampleSentence": "Elle suit un cours de peinture."
+  },
+  {
+    "French": "rester",
+    "English": "to stay",
+    "SampleSentence": "Elle va rester chez sa grand-m\u00e8re ce week-end."
+  },
+  {
+    "French": "roue",
+    "English": "wheel",
+    "SampleSentence": "La roue du v\u00e9lo est d\u00e9gonfl\u00e9e."
+  },
+  {
+    "French": "plein",
+    "English": "full",
+    "SampleSentence": "Le sac est plein de fruits."
+  },
+  {
+    "French": "force",
+    "English": "strength",
+    "SampleSentence": "Elle a une force incroyable."
+  },
+  {
+    "French": "bleu",
+    "English": "blue",
+    "SampleSentence": "La robe est de couleur bleue."
+  },
+  {
+    "French": "objet",
+    "English": "object",
+    "SampleSentence": "Elle collectionne des objets anciens."
+  },
+  {
+    "French": "d\u00e9cider",
+    "English": "to decide",
+    "SampleSentence": "Elle doit d\u00e9cider quoi faire ce soir."
+  },
+  {
+    "French": "surface",
+    "English": "surface",
+    "SampleSentence": "La surface de l'eau est calme."
+  },
+  {
+    "French": "profond",
+    "English": "deep",
+    "SampleSentence": "Le lac est tr\u00e8s profond \u00e0 cet endroit."
+  },
+  {
+    "French": "lune",
+    "English": "moon",
+    "SampleSentence": "La lune brille dans le ciel."
+  },
+  {
+    "French": "\u00eele",
+    "English": "island",
+    "SampleSentence": "Elle aime passer ses vacances sur une \u00eele tropicale."
+  },
+  {
+    "French": "pied",
+    "English": "foot",
+    "SampleSentence": "Elle a mal au pied apr\u00e8s la randonn\u00e9e."
+  },
+  {
+    "French": "syst\u00e8me",
+    "English": "system",
+    "SampleSentence": "Ce syst\u00e8me informatique est tr\u00e8s performant."
+  },
+  {
+    "French": "occup\u00e9",
+    "English": "busy",
+    "SampleSentence": "Elle est toujours occup\u00e9e au travail."
+  },
+  {
+    "French": "test",
+    "English": "test",
+    "SampleSentence": "Elle doit passer un test de math\u00e9matiques demain."
+  },
+  {
+    "French": "record",
+    "English": "record",
+    "SampleSentence": "Elle a battu un record de vitesse."
+  },
+  {
+    "French": "bateau",
+    "English": "boat",
+    "SampleSentence": "Le bateau navigue sur la mer calme."
+  },
+  {
+    "French": "commun",
+    "English": "common",
+    "SampleSentence": "Il s'agit d'un probl\u00e8me commun dans la r\u00e9gion."
+  },
+  {
+    "French": "or",
+    "English": "gold",
+    "SampleSentence": "Elle porte des bijoux en or."
+  },
+  {
+    "French": "possible",
+    "English": "possible",
+    "SampleSentence": "Est-ce que c'est possible de changer la date ?"
+  },
+  {
+    "French": "plan",
+    "English": "plan",
+    "SampleSentence": "Elle a un plan pour r\u00e9ussir son projet."
+  },
+  {
+    "French": "place",
+    "English": "place",
+    "SampleSentence": "Il a trouv\u00e9 une place de parking libre."
+  },
+  {
+    "French": "sec",
+    "English": "dry",
+    "SampleSentence": "La serviette est tellement sec qu'elle gratte."
+  },
+  {
+    "French": "se",
+    "English": "oneself",
+    "SampleSentence": "Elle se brosse les cheveux chaque matin."
+  },
+  {
+    "French": "rire",
+    "English": "to laugh",
+    "SampleSentence": "Elle aime rire avec ses amis."
+  },
+  {
+    "French": "mille",
+    "English": "thousand",
+    "SampleSentence": "Il y a mille raisons de c\u00e9l\u00e9brer."
+  },
+  {
+    "French": "il",
+    "English": "he",
+    "SampleSentence": "Il va venir vous aider."
+  },
+  {
+    "French": "ran",
+    "English": "ran",
+    "SampleSentence": "Elle courut rapidement pour attraper le bus."
+  },
+  {
+    "French": "v\u00e9rifier",
+    "English": "to check",
+    "SampleSentence": "Elle doit v\u00e9rifier ses emails avant la r\u00e9union."
+  },
+  {
+    "French": "jeu",
+    "English": "game",
+    "SampleSentence": "Elle adore jouer \u00e0 des jeux de soci\u00e9t\u00e9."
+  },
+  {
+    "French": "forme",
+    "English": "shape",
+    "SampleSentence": "Cette plante a une forme \u00e9trange."
+  },
+  {
+    "French": "assimiler",
+    "English": "to assimilate",
+    "SampleSentence": "Il doit assimiler beaucoup d'informations en peu de temps."
+  },
+  {
+    "French": "chaud",
+    "English": "hot",
+    "SampleSentence": "Le th\u00e9 est trop chaud pour boire."
+  },
+  {
+    "French": "manquer",
+    "English": "to miss",
+    "SampleSentence": "Elle va lui manquer pendant son voyage."
+  },
+  {
+    "French": "apport\u00e9",
+    "English": "brought",
+    "SampleSentence": "Elle a apport\u00e9 une bouteille de vin \u00e0 la f\u00eate."
+  },
+  {
+    "French": "chaleur",
+    "English": "heat",
+    "SampleSentence": "La chaleur est \u00e9touffante aujourd'hui."
+  },
+  {
+    "French": "neige",
+    "English": "snow",
+    "SampleSentence": "Il y a de la neige sur les toits."
+  },
+  {
+    "French": "pneu",
+    "English": "tire",
+    "SampleSentence": "Elle doit changer un pneu crev\u00e9."
+  },
+  {
+    "French": "apporter",
+    "English": "to bring",
+    "SampleSentence": "Elle va apporter des fruits \u00e0 la f\u00eate."
+  },
+  {
+    "French": "oui",
+    "English": "yes",
+    "SampleSentence": "Oui, je veux bien."
+  },
+  {
+    "French": "lointain",
+    "English": "distant",
+    "SampleSentence": "C'est un lointain souvenir."
+  },
+  {
+    "French": "remplir",
+    "English": "to fill",
+    "SampleSentence": "Elle va remplir le verre d'eau."
+  },
+  {
+    "French": "est",
+    "English": "is",
+    "SampleSentence": "Ce livre est tr\u00e8s int\u00e9ressant."
+  },
+  {
+    "French": "peindre",
+    "English": "to paint",
+    "SampleSentence": "Elle aime peindre des paysages."
+  },
+  {
+    "French": "langue",
+    "English": "language",
+    "SampleSentence": "Elle parle plusieurs langues."
+  },
+  {
+    "French": "entre",
+    "English": "between",
+    "SampleSentence": "La cl\u00e9 est entre les deux tables."
+  },
+  {
+    "French": "unit\u00e9",
+    "English": "unit",
+    "SampleSentence": "Cette mesure est exprim\u00e9e en unit\u00e9 de poids."
+  },
+  {
+    "French": "puissance",
+    "English": "power",
+    "SampleSentence": "Ce moteur a une puissance incroyable."
+  },
+  {
+    "French": "ville",
+    "English": "city",
+    "SampleSentence": "Paris est une tr\u00e8s belle ville."
+  },
+  {
+    "French": "fin",
+    "English": "end",
+    "SampleSentence": "La fin justifie les moyens."
+  },
+  {
+    "French": "certain",
+    "English": "certain",
+    "SampleSentence": "Je suis certain de mes choix."
+  },
+  {
+    "French": "voler",
+    "English": "to steal",
+    "SampleSentence": "Il ne faut jamais voler."
+  },
+  {
+    "French": "tomber",
+    "English": "to fall",
+    "SampleSentence": "Faites attention, vous pourriez tomber."
+  },
+  {
+    "French": "conduire",
+    "English": "to drive",
+    "SampleSentence": "Elle sait conduire tr\u00e8s bien."
+  },
+  {
+    "French": "cri",
+    "English": "scream",
+    "SampleSentence": "Le cri de l'enfant r\u00e9sonnait dans la nuit."
+  },
+  {
+    "French": "sombre",
+    "English": "dark",
+    "SampleSentence": "La chambre \u00e9tait sombre et silencieuse."
+  },
+  {
+    "French": "machine",
+    "English": "machine",
+    "SampleSentence": "Cette machine est tr\u00e8s sophistiqu\u00e9e."
+  },
+  {
+    "French": "patienter",
+    "English": "to wait",
+    "SampleSentence": "Je vais patienter ici."
+  },
+  {
+    "French": "plan",
+    "English": "plan",
+    "SampleSentence": "Il a un bon plan pour le week-end."
+  },
+  {
+    "French": "figure",
+    "English": "figure",
+    "SampleSentence": "La figure de cette danse est compliqu\u00e9e."
+  },
+  {
+    "French": "\u00e9toile",
+    "English": "star",
+    "SampleSentence": "J'ai vu une \u00e9toile filante hier soir."
+  },
+  {
+    "French": "bo\u00eete",
+    "English": "box",
+    "SampleSentence": "Elle rangea le cadeau dans une petite bo\u00eete."
+  },
+  {
+    "French": "nom",
+    "English": "name",
+    "SampleSentence": "Quel est votre nom?"
+  },
+  {
+    "French": "domaine",
+    "English": "domain",
+    "SampleSentence": "Il est expert dans son domaine."
+  },
+  {
+    "French": "reste",
+    "English": "rest",
+    "SampleSentence": "Je vais me reposer pour le reste de la journ\u00e9e."
+  },
+  {
+    "French": "correct",
+    "English": "correct",
+    "SampleSentence": "Votre r\u00e9ponse est correcte."
+  },
+  {
+    "French": "capable",
+    "English": "capable",
+    "SampleSentence": "Elle est capable de tout accomplir."
+  },
+  {
+    "French": "livre",
+    "English": "book",
+    "SampleSentence": "J'adore lire un bon livre le soir."
+  },
+  {
+    "French": "Termin\u00e9",
+    "English": "Finished",
+    "SampleSentence": "Le projet est enfin termin\u00e9."
+  },
+  {
+    "French": "beaut\u00e9",
+    "English": "beauty",
+    "SampleSentence": "La nature poss\u00e8de une grande beaut\u00e9."
+  },
+  {
+    "French": "entra\u00eenement",
+    "English": "training",
+    "SampleSentence": "Un bon entra\u00eenement est essentiel pour \u00eatre en forme."
+  },
+  {
+    "French": "r\u00e9sist\u00e9",
+    "English": "resisted",
+    "SampleSentence": "Elle a r\u00e9sist\u00e9 \u00e0 la tentation."
+  },
+  {
+    "French": "contenir",
+    "English": "to contain",
+    "SampleSentence": "Ce sac peut contenir beaucoup de choses."
+  },
+  {
+    "French": "avant",
+    "English": "before",
+    "SampleSentence": "Je dois terminer ce travail avant midi."
+  },
+  {
+    "French": "enseigner",
+    "English": "to teach",
+    "SampleSentence": "Elle aime enseigner \u00e0 de jeunes enfants."
+  },
+  {
+    "French": "semaine",
+    "English": "week",
+    "SampleSentence": "La semaine prochaine, je pars en vacances."
+  },
+  {
+    "French": "finale",
+    "English": "final",
+    "SampleSentence": "C'est le match final du tournoi."
+  },
+  {
+    "French": "donn\u00e9",
+    "English": "given",
+    "SampleSentence": "Cet argent a \u00e9t\u00e9 donn\u00e9 par un ami."
+  },
+  {
+    "French": "vert",
+    "English": "green",
+    "SampleSentence": "Les feuilles des arbres sont vertes au printemps."
+  },
+  {
+    "French": "oh",
+    "English": "oh",
+    "SampleSentence": "Oh ! Je suis d\u00e9sol\u00e9 de l'apprendre."
+  },
+  {
+    "French": "rapide",
+    "English": "fast",
+    "SampleSentence": "Il court tr\u00e8s vite."
+  },
+  {
+    "French": "d\u00e9velopper",
+    "English": "to develop",
+    "SampleSentence": "Cette entreprise cherche \u00e0 d\u00e9velopper de nouveaux produits."
+  },
+  {
+    "French": "oc\u00e9an",
+    "English": "ocean",
+    "SampleSentence": "J'adore me promener au bord de l'oc\u00e9an."
+  },
+  {
+    "French": "chaud",
+    "English": "hot",
+    "SampleSentence": "Le caf\u00e9 est trop chaud pour le boire maintenant."
+  },
+  {
+    "French": "gratuit",
+    "English": "free",
+    "SampleSentence": "Ce logiciel est gratuit \u00e0 t\u00e9l\u00e9charger."
+  },
+  {
+    "French": "minute",
+    "English": "minute",
+    "SampleSentence": "J'arrive dans une minute, ne bougez pas."
+  },
+  {
+    "French": "fort",
+    "English": "strong",
+    "SampleSentence": "Il est tr\u00e8s fort, il soul\u00e8ve des poids lourds."
+  },
+  {
+    "French": "sp\u00e9cial",
+    "English": "special",
+    "SampleSentence": "C'est un jour sp\u00e9cial pour moi."
+  },
+  {
+    "French": "esprit",
+    "English": "mind",
+    "SampleSentence": "Elle a un esprit vif et cr\u00e9atif."
+  },
+  {
+    "French": "derri\u00e8re",
+    "English": "behind",
+    "SampleSentence": "Je me cache derri\u00e8re le mur."
+  },
+  {
+    "French": "clair",
+    "English": "clear",
+    "SampleSentence": "Le ciel est clair et sans nuages."
+  },
+  {
+    "French": "queue",
+    "English": "tail",
+    "SampleSentence": "Le chien remue la queue quand il est content."
+  },
+  {
+    "French": "produire",
+    "English": "to produce",
+    "SampleSentence": "Cette usine produit des voitures de luxe."
+  },
+  {
+    "French": "fait",
+    "English": "fact",
+    "SampleSentence": "C'est un fait bien connu."
+  },
+  {
+    "French": "espace",
+    "English": "space",
+    "SampleSentence": "Il y a beaucoup d'espace dans cette pi\u00e8ce."
+  },
+  {
+    "French": "entendu",
+    "English": "heard",
+    "SampleSentence": "Elle a entendu des bruits \u00e9tranges la nuit derni\u00e8re."
+  },
+  {
+    "French": "meilleur",
+    "English": "better",
+    "SampleSentence": "C'est le meilleur film que j'aie jamais vu."
+  },
+  {
+    "French": "heure",
+    "English": "hour",
+    "SampleSentence": "Nous sommes partis il y a une heure seulement."
+  },
+  {
+    "French": "mieux",
+    "English": "best",
+    "SampleSentence": "Le mieux est de partir maintenant."
+  },
+  {
+    "French": "vrai",
+    "English": "true",
+    "SampleSentence": "C'est un fait vrai."
+  },
+  {
+    "French": "pendant",
+    "English": "during",
+    "SampleSentence": "Pendant les vacances, je me repose."
+  },
+  {
+    "French": "cent",
+    "English": "hundred",
+    "SampleSentence": "Il y a cent personnes dans la salle."
+  },
+  {
+    "French": "cinq",
+    "English": "five",
+    "SampleSentence": "Il y a cinq enfants dans la cour de r\u00e9cr\u00e9ation."
+  },
+  {
+    "French": "rappeler",
+    "English": "to remind",
+    "SampleSentence": "Je vais te rappeler de faire tes devoirs ce soir."
+  },
+  {
+    "French": "\u00e9tape",
+    "English": "step",
+    "SampleSentence": "Suivez chaque \u00e9tape de la recette pour un bon g\u00e2teau."
+  },
+  {
+    "French": "t\u00f4t",
+    "English": "early",
+    "SampleSentence": "Il est encore trop t\u00f4t pour partir."
+  },
+  {
+    "French": "tenir",
+    "English": "to hold",
+    "SampleSentence": "Tiens ma main, s'il te pla\u00eet."
+  },
+  {
+    "French": "ouest",
+    "English": "west",
+    "SampleSentence": "Le soleil se couche \u00e0 l'ouest."
+  },
+  {
+    "French": "sol",
+    "English": "ground",
+    "SampleSentence": "La plante pousse dans le sol."
+  },
+  {
+    "French": "int\u00e9r\u00eat",
+    "English": "interest",
+    "SampleSentence": "J'ai un grand int\u00e9r\u00eat pour l'art moderne."
+  },
+  {
+    "French": "atteindre",
+    "English": "to reach",
+    "SampleSentence": "Elle a du mal \u00e0 atteindre le haut de l'\u00e9tag\u00e8re."
+  },
+  {
+    "French": "verbe",
+    "English": "verb",
+    "SampleSentence": "Dans cette phrase, quel est le verbe principal?"
+  },
+  {
+    "French": "chanter",
+    "English": "to sing",
+    "SampleSentence": "Elle aime beaucoup chanter."
+  },
+  {
+    "French": "\u00e9couter",
+    "English": "to listen",
+    "SampleSentence": "Tu dois apprendre \u00e0 \u00e9couter les autres."
+  },
+  {
+    "French": "six",
+    "English": "six",
+    "SampleSentence": "Il y a six pommes dans le panier."
+  },
+  {
+    "French": "table",
+    "English": "table",
+    "SampleSentence": "Asseyez-vous \u00e0 la table, le d\u00eener est pr\u00eat."
+  },
+  {
+    "French": "Voyage",
+    "English": "journey",
+    "SampleSentence": "Ce fut un long voyage en train."
+  },
+  {
+    "French": "moins",
+    "English": "less",
+    "SampleSentence": "Il y a moins de sucre dans ma boisson."
+  },
+  {
+    "French": "matin",
+    "English": "morning",
+    "SampleSentence": "Le matin est le moment o\u00f9 je suis le plus productif."
+  },
+  {
+    "French": "dix",
+    "English": "ten",
+    "SampleSentence": "J'ai besoin de dix minutes de plus."
+  },
+  {
+    "French": "simple",
+    "English": "simple",
+    "SampleSentence": "C'est un probl\u00e8me tr\u00e8s simple \u00e0 r\u00e9soudre."
+  },
+  {
+    "French": "plusieurs",
+    "English": "several",
+    "SampleSentence": "J'ai plusieurs projets en cours en ce moment."
+  },
+  {
+    "French": "voyelle",
+    "English": "vowel",
+    "SampleSentence": "Il y a cinq voyelles dans l'alphabet fran\u00e7ais."
+  },
+  {
+    "French": "vers",
+    "English": "towards",
+    "SampleSentence": "Je vais vers le centre-ville."
+  },
+  {
+    "French": "guerre",
+    "English": "war",
+    "SampleSentence": "La guerre a eu un impact \u00e9norme sur la population."
+  },
+  {
+    "French": "poser",
+    "English": "to ask",
+    "SampleSentence": "Je voudrais poser une question."
+  },
+  {
+    "French": "contre",
+    "English": "against",
+    "SampleSentence": "Nous sommes pour ou contre cette id\u00e9e?"
+  },
+  {
+    "French": "mod\u00e8le",
+    "English": "model",
+    "SampleSentence": "Il est un mod\u00e8le pour les jeunes joueurs de foot."
+  },
+  {
+    "French": "lent",
+    "English": "slow",
+    "SampleSentence": "Le train est tr\u00e8s lent aujourd'hui."
+  },
+  {
+    "French": "centre",
+    "English": "center",
+    "SampleSentence": "Le centre-ville est tr\u00e8s anim\u00e9 le week-end."
+  },
+  {
+    "French": "amour",
+    "English": "love",
+    "SampleSentence": "L'amour est la cl\u00e9 du bonheur."
+  },
+  {
+    "French": "personne",
+    "English": "person",
+    "SampleSentence": "Chaque personne apporte quelque chose d'unique au monde."
+  },
+  {
+    "French": "argent",
+    "English": "money",
+    "SampleSentence": "L'argent ne fait pas tout dans la vie."
+  },
+  {
+    "French": "servir",
+    "English": "to serve",
+    "SampleSentence": "Il a commenc\u00e9 \u00e0 servir le d\u00eener."
+  },
+  {
+    "French": "appara\u00eetre",
+    "English": "to appear",
+    "SampleSentence": "Il est apparu sans pr\u00e9venir."
+  },
+  {
+    "French": "route",
+    "English": "road",
+    "SampleSentence": "Nous avons pris une route pittoresque pour arriver ici."
+  },
+  {
+    "French": "carte",
+    "English": "map",
+    "SampleSentence": "Laissez-moi regarder la carte avant de partir."
+  },
+  {
+    "French": "pluie",
+    "English": "rain",
+    "SampleSentence": "Il pleut beaucoup en cette saison."
+  },
+  {
+    "French": "r\u00e8gle",
+    "English": "rule",
+    "SampleSentence": "Suivez les r\u00e8gles et tout se passera bien."
+  },
+  {
+    "French": "gouverner",
+    "English": "to govern",
+    "SampleSentence": "Le pr\u00e9sident est \u00e9lu pour gouverner le pays."
+  },
+  {
+    "French": "tirer",
+    "English": "to pull",
+    "SampleSentence": "Elle a tir\u00e9 la porte pour l'ouvrir."
+  },
+  {
+    "French": "froid",
+    "English": "cold",
+    "SampleSentence": "Il fait tr\u00e8s froid dehors aujourd'hui."
+  },
+  {
+    "French": "avis",
+    "English": "opinion",
+    "SampleSentence": "Quel est ton avis sur cette question?"
+  },
+  {
+    "French": "voix",
+    "English": "voice",
+    "SampleSentence": "Elle a une voix magnifique."
+  },
+  {
+    "French": "\u00e9nergie",
+    "English": "energy",
+    "SampleSentence": "Il a beaucoup d'\u00e9nergie."
+  },
+  {
+    "French": "chasse",
+    "English": "hunt",
+    "SampleSentence": "La chasse est ouverte."
+  },
+  {
+    "French": "probable",
+    "English": "probable",
+    "SampleSentence": "C'est probablement vrai."
+  },
+  {
+    "French": "lit",
+    "English": "bed",
+    "SampleSentence": "Je vais me coucher dans mon lit."
+  },
+  {
+    "French": "fr\u00e8re",
+    "English": "brother",
+    "SampleSentence": "Mon fr\u00e8re est plus \u00e2g\u00e9 que moi."
+  },
+  {
+    "French": "\u0153uf",
+    "English": "egg",
+    "SampleSentence": "J'adore manger des \u0153ufs brouill\u00e9s."
+  },
+  {
+    "French": "tour",
+    "English": "turn",
+    "SampleSentence": "C'est \u00e0 ton tour de jouer."
+  },
+  {
+    "French": "cellule",
+    "English": "cell",
+    "SampleSentence": "La cellule est la plus petite unit\u00e9 de vie."
+  },
+  {
+    "French": "croire",
+    "English": "believe",
+    "SampleSentence": "Je crois en toi."
+  },
+  {
+    "French": "peut",
+    "English": "can",
+    "SampleSentence": "Je peux le faire."
+  },
+  {
+    "French": "choisir",
+    "English": "choose",
+    "SampleSentence": "Je vais choisir la robe rouge."
+  },
+  {
+    "French": "soudain",
+    "English": "sudden",
+    "SampleSentence": "Il y a eu un changement soudain."
+  },
+  {
+    "French": "compter",
+    "English": "count",
+    "SampleSentence": "Apprends \u00e0 compter jusqu'\u00e0 dix."
+  },
+  {
+    "French": "carr\u00e9",
+    "English": "square",
+    "SampleSentence": "Le carr\u00e9 a quatre c\u00f4t\u00e9s \u00e9gaux."
+  },
+  {
+    "French": "raison",
+    "English": "reason",
+    "SampleSentence": "Elle a une bonne raison de sourire."
+  },
+  {
+    "French": "longueur",
+    "English": "length",
+    "SampleSentence": "Quelle est la longueur de ta cour?"
+  },
+  {
+    "French": "repr\u00e9senter",
+    "English": "represent",
+    "SampleSentence": "Ces chiffres repr\u00e9sentent une tendance \u00e0 la hausse."
+  },
+  {
+    "French": "art",
+    "English": "art",
+    "SampleSentence": "Elle \u00e9tudie l'art \u00e0 l'universit\u00e9."
+  },
+  {
+    "French": "sujet",
+    "English": "subject",
+    "SampleSentence": "Le sujet de la discussion est tr\u00e8s int\u00e9ressant."
+  },
+  {
+    "French": "r\u00e9gion",
+    "English": "region",
+    "SampleSentence": "Cette r\u00e9gion est connue pour ses paysages magnifiques."
+  },
+  {
+    "French": "taille",
+    "English": "size",
+    "SampleSentence": "Ma taille est de 170 centim\u00e8tres."
+  },
+  {
+    "French": "varier",
+    "English": "vary",
+    "SampleSentence": "Les d\u00e9tails peuvent varier d'un mod\u00e8le \u00e0 l'autre."
+  },
+  {
+    "French": "r\u00e9gler",
+    "English": "adjust",
+    "SampleSentence": "Il faut r\u00e9gler la temp\u00e9rature du chauffage."
+  },
+  {
+    "French": "parler",
+    "English": "speak",
+    "SampleSentence": "Il adore parler aux inconnus."
+  },
+  {
+    "French": "poids",
+    "English": "weight",
+    "SampleSentence": "Son poids est de 70 kilos."
+  },
+  {
+    "French": "g\u00e9n\u00e9ral",
+    "English": "general",
+    "SampleSentence": "En g\u00e9n\u00e9ral, je suis une personne calme."
+  },
+  {
+    "French": "glace",
+    "English": "ice",
+    "SampleSentence": "Je mets des gla\u00e7ons dans mon soda."
+  },
+  {
+    "French": "question",
+    "English": "question",
+    "SampleSentence": "J'ai une question \u00e0 te poser."
+  },
+  {
+    "French": "cercle",
+    "English": "circle",
+    "SampleSentence": "Le cercle est une forme ronde."
+  },
+  {
+    "French": "paire",
+    "English": "pair",
+    "SampleSentence": "J'ai besoin d'une paire de chaussures neuves."
+  },
+  {
+    "French": "inclure",
+    "English": "include",
+    "SampleSentence": "Le prix inclut le transport."
+  },
+  {
+    "French": "fracture",
+    "English": "fracture",
+    "SampleSentence": "Il s'est cass\u00e9 le bras et a subi une fracture."
+  },
+  {
+    "French": "syllabe",
+    "English": "syllable",
+    "SampleSentence": "Le mot 'ordinateur' a quatre syllabes."
+  },
+  {
+    "French": "feutre",
+    "English": "felt",
+    "SampleSentence": "Il utilise un feutre pour dessiner sur le tableau blanc."
+  },
+  {
+    "French": "grandiose",
+    "English": "grandiose",
+    "SampleSentence": "Le spectacle \u00e9tait grandiose."
+  },
+  {
+    "French": "balle",
+    "English": "ball",
+    "SampleSentence": "Passe-moi la balle s'il te pla\u00eet."
+  },
+  {
+    "French": "encore",
+    "English": "again",
+    "SampleSentence": "Je veux regarder ce film encore une fois."
+  },
+  {
+    "French": "vague",
+    "English": "wave",
+    "SampleSentence": "J'adore entendre les vagues de l'oc\u00e9an."
+  },
+  {
+    "French": "tomber",
+    "English": "fall",
+    "SampleSentence": "Attention, ne tombe pas!"
+  },
+  {
+    "French": "c\u0153ur",
+    "English": "heart",
+    "SampleSentence": "Son c\u0153ur bat vite."
+  },
+  {
+    "French": "pr\u00e9sent",
+    "English": "present",
+    "SampleSentence": "J'ai re\u00e7u un beau pr\u00e9sent pour mon anniversaire."
+  },
+  {
+    "French": "lourd",
+    "English": "heavy",
+    "SampleSentence": "Ce sac est tr\u00e8s lourd."
+  },
+  {
+    "French": "danse",
+    "English": "dance",
+    "SampleSentence": "Elle est tr\u00e8s dou\u00e9e en danse."
+  },
+  {
+    "French": "moteur",
+    "English": "engine",
+    "SampleSentence": "Le moteur de la voiture fait un dr\u00f4le de bruit."
+  },
+  {
+    "French": "position",
+    "English": "position",
+    "SampleSentence": "Sa position de leader est en danger."
+  },
+  {
+    "French": "bras",
+    "English": "arm",
+    "SampleSentence": "Elle s'est cass\u00e9 le bras en tombant."
+  },
+  {
+    "French": "large",
+    "English": "wide",
+    "SampleSentence": "La rue est tr\u00e8s large."
+  },
+  {
+    "French": "voile",
+    "English": "sail",
+    "SampleSentence": "On a lev\u00e9 le voile sur ce myst\u00e8re."
+  },
+  {
+    "French": "mat\u00e9riel",
+    "English": "material",
+    "SampleSentence": "Le mat\u00e9riel n\u00e9cessaire est pr\u00eat."
+  },
+  {
+    "French": "fraction",
+    "English": "fraction",
+    "SampleSentence": "Le quart est une fraction de un."
+  },
+  {
+    "French": "for\u00eat",
+    "English": "forest",
+    "SampleSentence": "Nous avons fait une promenade en for\u00eat."
+  },
+  {
+    "French": "s\u2019asseoir",
+    "English": "sit",
+    "SampleSentence": "Veuillez-vous asseoir sur cette chaise."
+  },
+  {
+    "French": "course",
+    "English": "race",
+    "SampleSentence": "C'est une course de vitesse."
+  },
+  {
+    "French": "fen\u00eatre",
+    "English": "window",
+    "SampleSentence": "Ouvre la fen\u00eatre pour faire entrer de l'air."
+  },
+  {
+    "French": "magasin",
+    "English": "store",
+    "SampleSentence": "Je vais au magasin pour acheter du lait."
+  },
+  {
+    "French": "\u00e9t\u00e9",
+    "English": "summer",
+    "SampleSentence": "Chaque \u00e9t\u00e9, nous partons en vacances."
+  },
+  {
+    "French": "train",
+    "English": "train",
+    "SampleSentence": "Je prends toujours le train pour aller en ville."
+  },
+  {
+    "French": "sommeil",
+    "English": "sleep",
+    "SampleSentence": "Il a besoin de beaucoup de sommeil."
+  },
+  {
+    "French": "prouver",
+    "English": "prove",
+    "SampleSentence": "Je vais te prouver que j'ai raison."
+  },
+  {
+    "French": "seul",
+    "English": "alone",
+    "SampleSentence": "Je me sens seul sans toi."
+  },
+  {
+    "French": "jambe",
+    "English": "leg",
+    "SampleSentence": "Elle s'est cass\u00e9 la jambe en skiant."
+  },
+  {
+    "French": "exercice",
+    "English": "exercise",
+    "SampleSentence": "Faire de l'exercice est bon pour la sant\u00e9."
+  },
+  {
+    "French": "mur",
+    "English": "wall",
+    "SampleSentence": "Le chat grimpe toujours sur le mur."
+  },
+  {
+    "French": "capture",
+    "English": "capture",
+    "SampleSentence": "Il a r\u00e9ussi \u00e0 capture l'attention de tout le public."
+  },
+  {
+    "French": "monture",
+    "English": "mount",
+    "SampleSentence": "Le cheval est une belle monture."
+  },
+  {
+    "French": "souhaiter",
+    "English": "wish",
+    "SampleSentence": "Je te souhaite un joyeux anniversaire!"
+  },
+  {
+    "French": "ciel",
+    "English": "sky",
+    "SampleSentence": "Le ciel \u00e9tait magnifiquement \u00e9toil\u00e9 cette nuit l\u00e0."
+  },
+  {
+    "French": "conseil",
+    "English": "advice",
+    "SampleSentence": "Je vais te donner un bon conseil."
+  },
+  {
+    "French": "joie",
+    "English": "joy",
+    "SampleSentence": "Sa pr\u00e9sence apporte beaucoup de joie."
+  },
+  {
+    "French": "hiver",
+    "English": "winter",
+    "SampleSentence": "Il fait tr\u00e8s froid en hiver."
+  },
+  {
+    "French": "sat",
+    "English": "sat",
+    "SampleSentence": "Il a sat pendant plusieurs heures."
+  },
+  {
+    "French": "\u00e9crit",
+    "English": "written",
+    "SampleSentence": "Son nom est \u00e9crit sur la couverture."
+  },
+  {
+    "French": "sauvage",
+    "English": "wild",
+    "SampleSentence": "Les lions sont des animaux sauvages."
+  },
+  {
+    "French": "instrument",
+    "English": "instrument",
+    "SampleSentence": "Il joue d'un instrument de musique."
+  },
+  {
+    "French": "conserv\u00e9",
+    "English": "preserved",
+    "SampleSentence": "La nourriture est conserv\u00e9e au frais."
+  },
+  {
+    "French": "verre",
+    "English": "glass",
+    "SampleSentence": "Je bois de l'eau dans un verre."
+  },
+  {
+    "French": "herbe",
+    "English": "grass",
+    "SampleSentence": "J'aime marcher pieds nus dans l'herbe."
+  },
+  {
+    "French": "vache",
+    "English": "cow",
+    "SampleSentence": "Les vaches paissent dans le champ."
+  },
+  {
+    "French": "emploi",
+    "English": "job",
+    "SampleSentence": "Elle cherche un emploi dans la gestion."
+  },
+  {
+    "French": "bord",
+    "English": "edge",
+    "SampleSentence": "Fais attention au bord du trottoir."
+  },
+  {
+    "French": "signe",
+    "English": "sign",
+    "SampleSentence": "Elle a vu un signe de bonheur."
+  },
+  {
+    "French": "visite",
+    "English": "visit",
+    "SampleSentence": "Je vais te faire une visite guid\u00e9e de la ville."
+  },
+  {
+    "French": "pass\u00e9",
+    "English": "past",
+    "SampleSentence": "C'est du pass\u00e9, il faut avancer."
+  },
+  {
+    "French": "doux",
+    "English": "soft",
+    "SampleSentence": "Le chat a une fourrure douce."
+  },
+  {
+    "French": "amusement",
+    "English": "fun",
+    "SampleSentence": "Nous avons eu beaucoup d'amusement lors de cette soir\u00e9e."
+  },
+  {
+    "French": "clair",
+    "English": "clear",
+    "SampleSentence": "Son explication \u00e9tait claire et pr\u00e9cise."
+  },
+  {
+    "French": "gaz",
+    "English": "gas",
+    "SampleSentence": "La voiture fonctionne \u00e0 l'essence, pas au gaz."
+  },
+  {
+    "French": "temps",
+    "English": "weather",
+    "SampleSentence": "Le temps est magnifique aujourd'hui."
+  },
+  {
+    "French": "mois",
+    "English": "month",
+    "SampleSentence": "Je vais partir en vacances le mois prochain."
+  },
+  {
+    "French": "million",
+    "English": "million",
+    "SampleSentence": "Il a gagn\u00e9 un million d'euros \u00e0 la loterie."
+  },
+  {
+    "French": "porter",
+    "English": "wear",
+    "SampleSentence": "Elle aime porter des robes color\u00e9es."
+  },
+  {
+    "French": "finition",
+    "English": "finish",
+    "SampleSentence": "La finition de ce meuble est de haute qualit\u00e9."
+  },
+  {
+    "French": "heureux",
+    "English": "happy",
+    "SampleSentence": "Il semble tr\u00e8s heureux aujourd'hui."
+  },
+  {
+    "French": "espoir",
+    "English": "hope",
+    "SampleSentence": "Gardez l'espoir, les choses vont s'arranger."
+  },
+  {
+    "French": "fleur",
+    "English": "flower",
+    "SampleSentence": "Je t'offre cette belle fleur."
+  },
+  {
+    "French": "v\u00eatir",
+    "English": "dress",
+    "SampleSentence": "Elle aime se v\u00eatir de mani\u00e8re \u00e9l\u00e9gante."
+  },
+  {
+    "French": "\u00e9trange",
+    "English": "strange",
+    "SampleSentence": "C'est une histoire \u00e9trange."
+  },
+  {
+    "French": "disparu",
+    "English": "disappeared",
+    "SampleSentence": "Il a disparu sans laisser de trace."
+  },
+  {
+    "French": "commerce",
+    "English": "trade",
+    "SampleSentence": "Le commerce international est en expansion."
+  },
+  {
+    "French": "m\u00e9lodie",
+    "English": "melody",
+    "SampleSentence": "Elle chanta une belle m\u00e9lodie."
+  },
+  {
+    "French": "voyage",
+    "English": "trip",
+    "SampleSentence": "Je pr\u00e9vois un voyage en Europe l'\u00e9t\u00e9 prochain."
+  },
+  {
+    "French": "bureau",
+    "English": "office",
+    "SampleSentence": "Il travaille dans un bureau au centre-ville."
+  },
+  {
+    "French": "recevoir",
+    "English": "to receive",
+    "SampleSentence": "J'ai h\u00e2te de recevoir des nouvelles de mon ami."
+  },
+  {
+    "French": "rang\u00e9e",
+    "English": "row",
+    "SampleSentence": "Elle a pris la derni\u00e8re place dans la rang\u00e9e du milieu."
+  },
+  {
+    "French": "bouche",
+    "English": "mouth",
+    "SampleSentence": "Il se tut et ferma la bouche."
+  },
+  {
+    "French": "exact",
+    "English": "exact",
+    "SampleSentence": "Ses pr\u00e9dictions se sont r\u00e9v\u00e9l\u00e9es exactes."
+  },
+  {
+    "French": "symbole",
+    "English": "symbol",
+    "SampleSentence": "Le coq est un symbole de la France."
+  },
+  {
+    "French": "mourir",
+    "English": "to die",
+    "SampleSentence": "Malheureusement, son grand-p\u00e8re est sur le point de mourir."
+  },
+  {
+    "French": "moins",
+    "English": "less",
+    "SampleSentence": "Il n'y a pas moins de trois raisons pour lesquelles j'ai pris cette d\u00e9cision."
+  },
+  {
+    "French": "difficult\u00e9",
+    "English": "difficulty",
+    "SampleSentence": "Elle a surmont\u00e9 de nombreuses difficult\u00e9s dans sa vie."
+  },
+  {
+    "French": "cri",
+    "English": "cry",
+    "SampleSentence": "L'enfant \u00e9clata en sanglots, laissant \u00e9chapper un cri poignant."
+  },
+  {
+    "French": "sauf",
+    "English": "except",
+    "SampleSentence": "Tout le monde \u00e9tait pr\u00e9sent, sauf Pierre."
+  },
+  {
+    "French": "\u00e9crit",
+    "English": "written",
+    "SampleSentence": "Son histoire est cont\u00e9e dans un livre \u00e9crit par sa m\u00e8re."
+  },
+  {
+    "French": "semence",
+    "English": "seed",
+    "SampleSentence": "Il a sem\u00e9 les graines dans le jardin ce matin."
+  },
+  {
+    "French": "ton",
+    "English": "your",
+    "SampleSentence": "C'est ton tour de jouer maintenant."
+  },
+  {
+    "French": "joindre",
+    "English": "to join",
+    "SampleSentence": "Nous allons joindre nos forces pour r\u00e9soudre ce probl\u00e8me."
+  },
+  {
+    "French": "sugg\u00e9rer",
+    "English": "to suggest",
+    "SampleSentence": "Elle a sugg\u00e9r\u00e9 d'aller au restaurant italien pour le d\u00eener."
+  },
+  {
+    "French": "propre",
+    "English": "clean",
+    "SampleSentence": "Elle tient toujours sa maison d'une propret\u00e9 \u00e9clatante."
+  },
+  {
+    "French": "pause",
+    "English": "break",
+    "SampleSentence": "Je vais prendre une courte pause avant de continuer \u00e0 travailler."
+  },
+  {
+    "French": "dame",
+    "English": "lady",
+    "SampleSentence": "La dame \u00e2g\u00e9e sourit gentiment aux enfants qui la salu\u00e8rent."
+  },
+  {
+    "French": "cour",
+    "English": "yard",
+    "SampleSentence": "Les enfants jouent dans la cour de l'\u00e9cole pendant la r\u00e9cr\u00e9ation."
+  },
+  {
+    "French": "augmenter",
+    "English": "to increase",
+    "SampleSentence": "Il a d\u00e9cid\u00e9 d'augmenter le prix de vente de son produit."
+  },
+  {
+    "French": "mauvais",
+    "English": "bad",
+    "SampleSentence": "C'\u00e9tait une mauvaise id\u00e9e de sortir sans parapluie par ce temps."
+  },
+  {
+    "French": "coup",
+    "English": "blow",
+    "SampleSentence": "Il a re\u00e7u un coup sur la t\u00eate pendant le match de rugby."
+  },
+  {
+    "French": "huile",
+    "English": "oil",
+    "SampleSentence": "J'ai besoin d'acheter de l'huile d'olive pour la recette."
+  },
+  {
+    "French": "sang",
+    "English": "blood",
+    "SampleSentence": "Le m\u00e9decin a pr\u00e9lev\u00e9 un \u00e9chantillon de sang pour des analyses."
+  },
+  {
+    "French": "toucher",
+    "English": "to touch",
+    "SampleSentence": "Elle ne peut s'emp\u00eacher de toucher les mati\u00e8res douces."
+  },
+  {
+    "French": "a cent",
+    "English": "hundred",
+    "SampleSentence": "Le marchand a vendu les sacs de riz \u00e0 cent unit\u00e9s."
+  },
+  {
+    "French": "m\u00e9langer",
+    "English": "to mix",
+    "SampleSentence": "Il a commenc\u00e9 \u00e0 m\u00e9langer les ingr\u00e9dients pour le g\u00e2teau."
+  },
+  {
+    "French": "\u00e9quipe",
+    "English": "team",
+    "SampleSentence": "Notre \u00e9quipe a remport\u00e9 la finale du tournoi de football."
+  },
+  {
+    "French": "fil",
+    "English": "thread",
+    "SampleSentence": "Elle a cousu le bouton avec un fil bleu."
+  },
+  {
+    "French": "co\u00fbt",
+    "English": "cost",
+    "SampleSentence": "Le co\u00fbt de la vie augmente chaque ann\u00e9e."
+  },
+  {
+    "French": "perdu",
+    "English": "lost",
+    "SampleSentence": "Elle avait l'impression d'\u00eatre perdue dans cette grande ville inconnue."
+  },
+  {
+    "French": "brun",
+    "English": "brown",
+    "SampleSentence": "Elle adorait porter des bottes en cuir brun en automne."
+  },
+  {
+    "French": "porter",
+    "English": "to wear",
+    "SampleSentence": "Il pr\u00e9f\u00e9rait porter des chemises \u00e0 carreaux."
+  },
+  {
+    "French": "jardin",
+    "English": "garden",
+    "SampleSentence": "Elle aime fl\u00e2ner dans son jardin apr\u00e8s le d\u00eener."
+  },
+  {
+    "French": "\u00e9gal",
+    "English": "equal",
+    "SampleSentence": "Tous les \u00e9l\u00e8ves ont le droit \u00e0 une chance \u00e9gale de r\u00e9ussir."
+  },
+  {
+    "French": "exp\u00e9di\u00e9",
+    "English": "shipped",
+    "SampleSentence": "Le colis a \u00e9t\u00e9 exp\u00e9di\u00e9 hier et devrait arriver sous peu."
+  },
+  {
+    "French": "choisir",
+    "English": "to choose",
+    "SampleSentence": "Elle a du mal \u00e0 choisir entre les deux robes."
+  },
+  {
+    "French": "est",
+    "English": "is",
+    "SampleSentence": "Il est en train de travailler sur un nouveau projet passionnant."
+  },
+  {
+    "French": "s\u2019adapter",
+    "English": "to adapt",
+    "SampleSentence": "Elle a d\u00fb s\u2019adapter \u00e0 son nouvel environnement de travail."
+  },
+  {
+    "French": "d\u00e9bit",
+    "English": "debit",
+    "SampleSentence": "Le d\u00e9bit d'eau de la douche \u00e9tait trop faible ce matin."
+  },
+  {
+    "French": "juste",
+    "English": "fair",
+    "SampleSentence": "Il insiste toujours pour que les r\u00e8gles soient appliqu\u00e9es de fa\u00e7on juste."
+  },
+  {
+    "French": "banque",
+    "English": "bank",
+    "SampleSentence": "Nous devons passer \u00e0 la banque avant la fermeture."
+  },
+  {
+    "French": "recueillir",
+    "English": "to collect",
+    "SampleSentence": "Ils ont recueilli des fonds pour une association caritative."
+  },
+  {
+    "French": "sauver",
+    "English": "to save",
+    "SampleSentence": "Le pompier a r\u00e9ussi \u00e0 sauver le chat coinc\u00e9 dans l'arbre."
+  },
+  {
+    "French": "contr\u00f4le",
+    "English": "control",
+    "SampleSentence": "Elle exerce un contr\u00f4le strict sur les d\u00e9penses de son entreprise."
+  },
+  {
+    "French": "d\u00e9cimal",
+    "English": "decimal",
+    "SampleSentence": "La calculatrice affiche le montant en chiffres d\u00e9cimaux."
+  },
+  {
+    "French": "oreille",
+    "English": "ear",
+    "SampleSentence": "Elle \u00e9tait attentive et tournait son oreille vers les voix lointaines."
+  },
+  {
+    "French": "autre",
+    "English": "other",
+    "SampleSentence": "Il chercha un autre moyen de r\u00e9soudre le probl\u00e8me."
+  },
+  {
+    "French": "tout",
+    "English": "all",
+    "SampleSentence": "Elle avait tout pr\u00e9par\u00e9 en avance pour la f\u00eate."
+  },
+  {
+    "French": "cass\u00e9",
+    "English": "broken",
+    "SampleSentence": "Il a promis de r\u00e9parer la chaise cass\u00e9e dans la cuisine."
+  },
+  {
+    "French": "cas",
+    "English": "case",
+    "SampleSentence": "Dans ce cas, nous devons trouver une solution rapide."
+  },
+  {
+    "French": "milieu",
+    "English": "middle",
+    "SampleSentence": "Il est assis au milieu de la rang\u00e9e du fond."
+  },
+  {
+    "French": "tuer",
+    "English": "to kill",
+    "SampleSentence": "La plante a \u00e9t\u00e9 tu\u00e9e par le froid de l'hiver."
+  },
+  {
+    "French": "fils",
+    "English": "son",
+    "SampleSentence": "Son fils a\u00een\u00e9 est d\u00e9j\u00e0 \u00e0 l'universit\u00e9."
+  },
+  {
+    "French": "lac",
+    "English": "lake",
+    "SampleSentence": "Ils ont lou\u00e9 une barque pour naviguer sur le lac."
+  },
+  {
+    "French": "moment",
+    "English": "moment",
+    "SampleSentence": "S'il vous pla\u00eet, un moment de votre temps pour une question rapide."
+  },
+  {
+    "French": "\u00e9chelle",
+    "English": "scale",
+    "SampleSentence": "Elle a pes\u00e9 les ingr\u00e9dients sur une \u00e9chelle pr\u00e9cise."
+  },
+  {
+    "French": "fort",
+    "English": "strong",
+    "SampleSentence": "Il est un nageur fort et comp\u00e9titif."
+  },
+  {
+    "French": "printemps",
+    "English": "spring",
+    "SampleSentence": "Les fleurs commencent \u00e0 pousser au printemps."
+  },
+  {
+    "French": "observer",
+    "English": "to observe",
+    "SampleSentence": "Il aime s'asseoir et observer les \u00e9toiles pendant la nuit."
+  },
+  {
+    "French": "enfant",
+    "English": "child",
+    "SampleSentence": "Les enfants s\u2019amusent ensemble dans le parc."
+  },
+  {
+    "French": "droit",
+    "English": "right",
+    "SampleSentence": "Il consid\u00e8re qu'il a le droit d'exprimer son opinion."
+  },
+  {
+    "French": "consonne",
+    "English": "consonant",
+    "SampleSentence": "Le mot \u00abchat\u00bb commence par une consonne."
+  },
+  {
+    "French": "nation",
+    "English": "nation",
+    "SampleSentence": "Elle est une fi\u00e8re citoyenne de sa nation."
+  },
+  {
+    "French": "dictionnaire",
+    "English": "dictionary",
+    "SampleSentence": "Il a trouv\u00e9 la signification du mot dans le dictionnaire."
+  },
+  {
+    "French": "lait",
+    "English": "milk",
+    "SampleSentence": "Elle boit un verre de lait tous les matins."
+  },
+  {
+    "French": "vitesse",
+    "English": "speed",
+    "SampleSentence": "Il a ajust\u00e9 la vitesse de la voiture sur l'autoroute."
+  },
+  {
+    "French": "m\u00e9thode",
+    "English": "method",
+    "SampleSentence": "C'est une bonne m\u00e9thode pour apprendre une nouvelle langue."
+  },
+  {
+    "French": "organe",
+    "English": "organ",
+    "SampleSentence": "Le c\u0153ur est un organe vital du corps humain."
+  },
+  {
+    "French": "payer",
+    "English": "to pay",
+    "SampleSentence": "Je vais payer l'addition pour le d\u00eener ce soir."
+  },
+  {
+    "French": "\u00e2ge",
+    "English": "age",
+    "SampleSentence": "Son fr\u00e8re a\u00een\u00e9 a dix ans de plus qu'elle en \u00e2ge."
+  },
+  {
+    "French": "section",
+    "English": "section",
+    "SampleSentence": "Elle a lu attentivement chaque section du contrat."
+  },
+  {
+    "French": "robe",
+    "English": "dress",
+    "SampleSentence": "Elle a choisi une robe rouge pour la soir\u00e9e."
+  },
+  {
+    "French": "nuage",
+    "English": "cloud",
+    "SampleSentence": "Le ciel \u00e9tait couvert de nuages gris avant l'orage."
+  },
+  {
+    "French": "surprise",
+    "English": "surprise",
+    "SampleSentence": "Elle m'a organis\u00e9 une belle surprise pour mon anniversaire."
+  },
+  {
+    "French": "calme",
+    "English": "calm",
+    "SampleSentence": "Elle pr\u00e9f\u00e8re passer ses soir\u00e9es dans le calme de sa maison."
+  },
+  {
+    "French": "pierre",
+    "English": "stone",
+    "SampleSentence": "Ils ont utilis\u00e9 des pierres pour construire le mur du jardin."
+  },
+  {
+    "French": "minuscule",
+    "English": "tiny",
+    "SampleSentence": "Dans la bo\u00eete, il y avait un minuscule jouet pour chat."
+  },
+  {
+    "French": "mont\u00e9e",
+    "English": "climb",
+    "SampleSentence": "La mont\u00e9e vers le sommet de la montagne \u00e9tait \u00e9puisante."
+  },
+  {
+    "French": "frais",
+    "English": "fresh",
+    "SampleSentence": "Elle a pr\u00e9par\u00e9 une salade avec des l\u00e9gumes frais du march\u00e9."
+  },
+  {
+    "French": "conception",
+    "English": "design",
+    "SampleSentence": "Les architectes ont propos\u00e9 une nouvelle conception pour le b\u00e2timent."
+  },
+  {
+    "French": "pauvres",
+    "English": "poor",
+    "SampleSentence": "Beaucoup de gens vivent dans des conditions pauvres dans cette r\u00e9gion du monde."
+  },
+  {
+    "French": "lot",
+    "English": "lot",
+    "SampleSentence": "Elle acheta un lot de cinq t-shirts \u00e0 prix r\u00e9duit."
+  },
+  {
+    "French": "exp\u00e9rience",
+    "English": "experience",
+    "SampleSentence": "Elle a gagn\u00e9 une exp\u00e9rience pr\u00e9cieuse en travaillant \u00e0 l'\u00e9tranger."
+  },
+  {
+    "French": "bas",
+    "English": "low",
+    "SampleSentence": "Le niveau de la rivi\u00e8re \u00e9tait tr\u00e8s bas \u00e0 la fin de l'\u00e9t\u00e9."
+  },
+  {
+    "French": "cl\u00e9",
+    "English": "key",
+    "SampleSentence": "Il chercha ses cl\u00e9s pendant plusieurs minutes avant de les retrouver dans sa poche."
+  },
+  {
+    "French": "fer",
+    "English": "iron",
+    "SampleSentence": "Le fer est un m\u00e9tal dur et r\u00e9sistant."
+  },
+  {
+    "French": "unique",
+    "English": "unique",
+    "SampleSentence": "Chaque flocon de neige est unique et sp\u00e9cial."
+  },
+  {
+    "French": "b\u00e2ton",
+    "English": "stick",
+    "SampleSentence": "Les enfants aiment jouer avec des b\u00e2tons dans la for\u00eat."
+  },
+  {
+    "French": "plat",
+    "English": "dish",
+    "SampleSentence": "Elle a command\u00e9 son plat pr\u00e9f\u00e9r\u00e9 au restaurant chinois."
+  },
+  {
+    "French": "vingt",
+    "English": "twenty",
+    "SampleSentence": "Elle a vingt ans aujourd'hui, c'est un jour sp\u00e9cial pour elle."
+  },
+  {
+    "French": "peau",
+    "English": "skin",
+    "SampleSentence": "Il applique de la cr\u00e8me pour prot\u00e9ger sa peau du soleil."
+  },
+  {
+    "French": "sourire",
+    "English": "smile",
+    "SampleSentence": "Elle lui fit un grand sourire pour le rassurer."
+  },
+  {
+    "French": "pli",
+    "English": "fold",
+    "SampleSentence": "Elle fit un pli soign\u00e9 sur le linge fra\u00eechement lav\u00e9."
+  },
+  {
+    "French": "trou",
+    "English": "hole",
+    "SampleSentence": "Il fit un trou dans le mur pour accrocher le tableau."
+  },
+  {
+    "French": "sauter",
+    "English": "to jump",
+    "SampleSentence": "Le chat adorait sauter sur les meubles."
+  },
+  {
+    "French": "b\u00e9b\u00e9",
+    "English": "baby",
+    "SampleSentence": "Ma soeur a un beau b\u00e9b\u00e9."
+  },
+  {
+    "French": "huit",
+    "English": "eight",
+    "SampleSentence": "Il y a huit personnes dans la pi\u00e8ce."
+  },
+  {
+    "French": "village",
+    "English": "village",
+    "SampleSentence": "Le village est tr\u00e8s pittoresque."
+  },
+  {
+    "French": "se",
+    "English": "oneself",
+    "SampleSentence": "Il faut prendre soin de soi."
+  },
+  {
+    "French": "racine",
+    "English": "root",
+    "SampleSentence": "Les racines de cet arbre sont profondes."
+  },
+  {
+    "French": "acheter",
+    "English": "to buy",
+    "SampleSentence": "J'ai l'intention d'acheter une nouvelle voiture."
+  },
+  {
+    "French": "augmenter",
+    "English": "to increase",
+    "SampleSentence": "Nous devons augmenter nos efforts pour r\u00e9ussir."
+  },
+  {
+    "French": "r\u00e9soudre",
+    "English": "to solve",
+    "SampleSentence": "Nous devons r\u00e9soudre ce probl\u00e8me rapidement."
+  },
+  {
+    "French": "m\u00e9tal",
+    "English": "metal",
+    "SampleSentence": "Le m\u00e9tal est un mat\u00e9riau tr\u00e8s solide."
+  },
+  {
+    "French": "si",
+    "English": "if",
+    "SampleSentence": "Je viendrai si j'ai le temps."
+  },
+  {
+    "French": "pousser",
+    "English": "to push",
+    "SampleSentence": "Il faut pousser la porte pour l'ouvrir."
+  },
+  {
+    "French": "sept",
+    "English": "seven",
+    "SampleSentence": "La r\u00e9union est pr\u00e9vue pour le sept novembre."
+  },
+  {
+    "French": "paragraphe",
+    "English": "paragraph",
+    "SampleSentence": "Vous devez r\u00e9diger un paragraphe sur ce sujet."
+  },
+  {
+    "French": "troisi\u00e8me",
+    "English": "third",
+    "SampleSentence": "J'habite au troisi\u00e8me \u00e9tage de cet immeuble."
+  },
+  {
+    "French": "doit",
+    "English": "must",
+    "SampleSentence": "Tu dois terminer ce travail avant demain."
+  },
+  {
+    "French": "en",
+    "English": "in",
+    "SampleSentence": "Elle est en vacances."
+  },
+  {
+    "French": "cheveux",
+    "English": "hair",
+    "SampleSentence": "Elle a de beaux cheveux blonds."
+  },
+  {
+    "French": "d\u00e9crire",
+    "English": "to describe",
+    "SampleSentence": "Il sait tr\u00e8s bien d\u00e9crire ses sentiments."
+  },
+  {
+    "French": "cuisinier",
+    "English": "cook",
+    "SampleSentence": "Mon p\u00e8re est un excellent cuisinier."
+  },
+  {
+    "French": "\u00e9tage",
+    "English": "floor",
+    "SampleSentence": "Mon bureau est au deuxi\u00e8me \u00e9tage."
+  },
+  {
+    "French": "chaque",
+    "English": "each",
+    "SampleSentence": "Chaque \u00e9tudiant doit apporter son propre mat\u00e9riel."
+  },
+  {
+    "French": "r\u00e9sultat",
+    "English": "result",
+    "SampleSentence": "Le r\u00e9sultat de cette \u00e9tude est \u00e9tonnant."
+  },
+  {
+    "French": "br\u00fbler",
+    "English": "to burn",
+    "SampleSentence": "Faites attention de ne pas vous br\u00fbler."
+  },
+  {
+    "French": "colline",
+    "English": "hill",
+    "SampleSentence": "La maison est situ\u00e9e au sommet de la colline."
+  },
+  {
+    "French": "coffre",
+    "English": "trunk",
+    "SampleSentence": "Le coffre de la voiture est plein."
+  },
+  {
+    "French": "chat",
+    "English": "cat",
+    "SampleSentence": "J'ai un chat noir et blanc."
+  },
+  {
+    "French": "si\u00e8cle",
+    "English": "century",
+    "SampleSentence": "Nous vivons au vingt et uni\u00e8me si\u00e8cle."
+  },
+  {
+    "French": "envisager",
+    "English": "to consider",
+    "SampleSentence": "Nous devons envisager toutes les options."
+  },
+  {
+    "French": "type",
+    "English": "type",
+    "SampleSentence": "Il y a plusieurs type de fleurs dans ce jardin."
+  },
+  {
+    "French": "droit",
+    "English": "right",
+    "SampleSentence": "Tu as le droit de garder le silence."
+  },
+  {
+    "French": "peu",
+    "English": "few",
+    "SampleSentence": "Il me reste tr\u00e8s peu de temps."
+  },
+  {
+    "French": "c\u00f4te",
+    "English": "coast",
+    "SampleSentence": "La c\u00f4te est magnifique \u00e0 cette heure du matin."
+  },
+  {
+    "French": "copie",
+    "English": "copy",
+    "SampleSentence": "Il faut faire une copie de ce document."
+  },
+  {
+    "French": "phrase",
+    "English": "sentence",
+    "SampleSentence": "Il a \u00e9crit une phrase tr\u00e8s dr\u00f4le."
+  },
+  {
+    "French": "silencieux",
+    "English": "silent",
+    "SampleSentence": "Le t\u00e9l\u00e9phone est rest\u00e9 silencieux toute la journ\u00e9e."
+  },
+  {
+    "French": "haut",
+    "English": "high",
+    "SampleSentence": "Le soleil est haut dans le ciel."
+  },
+  {
+    "French": "sable",
+    "English": "sand",
+    "SampleSentence": "La plage est recouverte de sable fin."
+  },
+  {
+    "French": "sol",
+    "English": "ground",
+    "SampleSentence": "Elle s'est assise par terre sur le sol."
+  },
+  {
+    "French": "rouleau",
+    "English": "roll",
+    "SampleSentence": "Il a utilis\u00e9 un rouleau pour peindre le mur."
+  },
+  {
+    "French": "temp\u00e9rature",
+    "English": "temperature",
+    "SampleSentence": "La temp\u00e9rature est tr\u00e8s \u00e9lev\u00e9e aujourd'hui."
+  },
+  {
+    "French": "doigt",
+    "English": "finger",
+    "SampleSentence": "Il a coinc\u00e9 son doigt dans la porte."
+  },
+  {
+    "French": "industrie",
+    "English": "industry",
+    "SampleSentence": "L'industrie du cin\u00e9ma est en pleine croissance."
+  },
+  {
+    "French": "valeur",
+    "English": "value",
+    "SampleSentence": "Il faut toujours respecter la valeur des autres."
+  },
+  {
+    "French": "lutte",
+    "English": "struggle",
+    "SampleSentence": "La lutte pour l'\u00e9galit\u00e9 est toujours d'actualit\u00e9."
+  },
+  {
+    "French": "mensonge",
+    "English": "lie",
+    "SampleSentence": "Il ne faut jamais dire de mensonge."
+  },
+  {
+    "French": "battre",
+    "English": "to beat",
+    "SampleSentence": "Il a battu son propre record."
+  },
+  {
+    "French": "exciter",
+    "English": "to excite",
+    "SampleSentence": "Ce film va beaucoup exciter les enfants."
+  },
+  {
+    "French": "naturel",
+    "English": "natural",
+    "SampleSentence": "Les paysages sont d'une beaut\u00e9 naturelle."
+  },
+  {
+    "French": "vue",
+    "English": "view",
+    "SampleSentence": "La vue depuis cette montagne est imprenable."
+  },
+  {
+    "French": "sens",
+    "English": "sense",
+    "SampleSentence": "Il faut faire preuve de bon sens."
+  },
+  {
+    "French": "capital",
+    "English": "capital",
+    "SampleSentence": "Paris est la capitale de la France."
+  },
+  {
+    "French": "ne",
+    "English": "not",
+    "SampleSentence": "Je ne suis pas d'accord avec toi."
+  },
+  {
+    "French": "chaise",
+    "English": "chair",
+    "SampleSentence": "Il a tir\u00e9 la chaise pour s'asseoir."
+  },
+  {
+    "French": "danger",
+    "English": "danger",
+    "SampleSentence": "Il faut \u00eatre prudent, il y a du danger."
+  },
+  {
+    "French": "fruit",
+    "English": "fruit",
+    "SampleSentence": "Je vais prendre un fruit pour le dessert."
+  },
+  {
+    "French": "riche",
+    "English": "rich",
+    "SampleSentence": "Il est tr\u00e8s riche, mais il est g\u00e9n\u00e9reux."
+  },
+  {
+    "French": "\u00e9pais",
+    "English": "thick",
+    "SampleSentence": "La couche de peinture est \u00e9paisse."
+  },
+  {
+    "French": "soldat",
+    "English": "soldier",
+    "SampleSentence": "Il est fier de servir en tant que soldat."
+  },
+  {
+    "French": "processus",
+    "English": "process",
+    "SampleSentence": "Le processus de fabrication est tr\u00e8s efficace."
+  },
+  {
+    "French": "fonctionner",
+    "English": "to function",
+    "SampleSentence": "La machine fonctionne parfaitement."
+  },
+  {
+    "French": "pratique",
+    "English": "practical",
+    "SampleSentence": "Cette m\u00e9thode est tr\u00e8s pratique."
+  },
+  {
+    "French": "s\u00e9par\u00e9",
+    "English": "separated",
+    "SampleSentence": "Ils sont s\u00e9par\u00e9s depuis quelques mois."
+  },
+  {
+    "French": "difficile",
+    "English": "difficult",
+    "SampleSentence": "Ce probl\u00e8me est tr\u00e8s difficile \u00e0 r\u00e9soudre."
+  },
+  {
+    "French": "m\u00e9decin",
+    "English": "doctor",
+    "SampleSentence": "Le m\u00e9decin a pris soin de lui."
+  },
+  {
+    "French": "s\u2019il",
+    "English": "if",
+    "SampleSentence": "S'il pleut, nous resterons \u00e0 la maison."
+  },
+  {
+    "French": "prot\u00e9ger",
+    "English": "to protect",
+    "SampleSentence": "Nous devons prot\u00e9ger la nature."
+  },
+  {
+    "French": "midi",
+    "English": "midday",
+    "SampleSentence": "Il est midi, c'est l'heure du d\u00e9jeuner."
+  },
+  {
+    "French": "r\u00e9colte",
+    "English": "harvest",
+    "SampleSentence": "La r\u00e9colte de cette ann\u00e9e est abondante."
+  },
+  {
+    "French": "moderne",
+    "English": "modern",
+    "SampleSentence": "C'est un appartement tr\u00e8s moderne."
+  },
+  {
+    "French": "\u00e9l\u00e9ment",
+    "English": "element",
+    "SampleSentence": "Le feu est un \u00e9l\u00e9ment naturel."
+  },
+  {
+    "French": "frapper",
+    "English": "to hit",
+    "SampleSentence": "Il a frapp\u00e9 la balle tr\u00e8s fort."
+  },
+  {
+    "French": "\u00e9tudiant",
+    "English": "student",
+    "SampleSentence": "L'\u00e9tudiant a bien r\u00e9ussi son examen."
+  },
+  {
+    "French": "coin",
+    "English": "corner",
+    "SampleSentence": "La boutique est situ\u00e9e au coin de la rue."
+  },
+  {
+    "French": "partie",
+    "English": "part",
+    "SampleSentence": "Elle joue une partie d'\u00e9checs."
+  },
+  {
+    "French": "alimentation",
+    "English": "food",
+    "SampleSentence": "Il faut une alimentation \u00e9quilibr\u00e9e."
+  },
+  {
+    "French": "dont",
+    "English": "whose",
+    "SampleSentence": "Ce livre est celui dont il m'a parl\u00e9."
+  },
+  {
+    "French": "localiser",
+    "English": "to locate",
+    "SampleSentence": "Nous devons localiser la source du probl\u00e8me."
+  },
+  {
+    "French": "anneau",
+    "English": "ring",
+    "SampleSentence": "Elle porte un joli anneau en argent."
+  },
+  {
+    "French": "caract\u00e8re",
+    "English": "character",
+    "SampleSentence": "Il a un caract\u00e8re tr\u00e8s fort."
+  },
+  {
+    "French": "insecte",
+    "English": "insect",
+    "SampleSentence": "Il y a beaucoup d'insectes dans le jardin."
+  },
+  {
+    "French": "pris",
+    "English": "taken",
+    "SampleSentence": "Il a pris une d\u00e9cision importante."
+  },
+  {
+    "French": "p\u00e9riode",
+    "English": "period",
+    "SampleSentence": "La p\u00e9riode de vacances approche."
+  },
+  {
+    "French": "indiquer",
+    "English": "to indicate",
+    "SampleSentence": "La fl\u00e8che indique la bonne direction."
+  },
+  {
+    "French": "radio",
+    "English": "radio",
+    "SampleSentence": "J'\u00e9coute la radio tous les matins."
+  },
+  {
+    "French": "rayon",
+    "English": "ray",
+    "SampleSentence": "Le soleil projette ses rayons \u00e0 travers les nuages."
+  },
+  {
+    "French": "atome",
+    "English": "atom",
+    "SampleSentence": "La mol\u00e9cule se compose d'atomes."
+  },
+  {
+    "French": "humain",
+    "English": "human",
+    "SampleSentence": "La compassion est une qualit\u00e9 humaine."
+  },
+  {
+    "French": "histoire",
+    "English": "story",
+    "SampleSentence": "C'est une histoire captivante."
+  },
+  {
+    "French": "effet",
+    "English": "effect",
+    "SampleSentence": "La musique a un effet apaisant sur moi."
+  },
+  {
+    "French": "\u00e9lectrique",
+    "English": "electric",
+    "SampleSentence": "Cette voiture fonctionne \u00e0 l'\u00e9nergie \u00e9lectrique."
+  },
+  {
+    "French": "attendre",
+    "English": "to wait",
+    "SampleSentence": "Je vais attendre dehors."
+  },
+  {
+    "French": "os",
+    "English": "bone",
+    "SampleSentence": "Il a cass\u00e9 un os en faisant du sport."
+  },
+  {
+    "French": "rail",
+    "English": "rail",
+    "SampleSentence": "Le train roule sur les rails."
+  },
+  {
+    "French": "imaginer",
+    "English": "to imagine",
+    "SampleSentence": "Je n'arrive pas \u00e0 imaginer la suite."
+  },
+  {
+    "French": "fournir",
+    "English": "to provide",
+    "SampleSentence": "Nous devons fournir des preuves de notre implication."
+  },
+  {
+    "French": "se",
+    "English": "oneself",
+    "SampleSentence": "Il faut prendre soin de soi."
+  },
+  {
+    "French": "ainsi",
+    "English": "like this",
+    "SampleSentence": "Il a agi ainsi sans r\u00e9fl\u00e9chir."
+  },
+  {
+    "French": "doux",
+    "English": "soft",
+    "SampleSentence": "Ce tissu est tr\u00e8s doux."
+  },
+  {
+    "French": "femme",
+    "English": "woman",
+    "SampleSentence": "Cette femme est tr\u00e8s \u00e9l\u00e9gante."
+  },
+  {
+    "French": "capitaine",
+    "English": "captain",
+    "SampleSentence": "Le capitaine dirige l'\u00e9quipe avec brio."
+  },
+  {
+    "French": "deviner",
+    "English": "to guess",
+    "SampleSentence": "Je vais deviner le nombre de bonbons dans le bocal."
+  },
+  {
+    "French": "n\u00e9cessaire",
+    "English": "necessary",
+    "SampleSentence": "Il est n\u00e9cessaire d'\u00e9tudier pour r\u00e9ussir l'examen."
+  },
+  {
+    "French": "net",
+    "English": "clean",
+    "SampleSentence": "La chambre est nette et bien rang\u00e9e."
+  },
+  {
+    "French": "aile",
+    "English": "wing",
+    "SampleSentence": "L'oiseau d\u00e9ploie ses ailes pour s'envoler."
+  },
+  {
+    "French": "cr\u00e9er",
+    "English": "to create",
+    "SampleSentence": "L'artiste a cr\u00e9\u00e9 une magnifique \u0153uvre d'art."
+  },
+  {
+    "French": "voisin",
+    "English": "neighbor",
+    "SampleSentence": "Mon voisin est tr\u00e8s sympathique."
+  },
+  {
+    "French": "lavage",
+    "English": "washing",
+    "SampleSentence": "Le lavage \u00e0 la main est recommand\u00e9 pour ce v\u00eatement."
+  },
+  {
+    "French": "chauve",
+    "English": "bald",
+    "SampleSentence": "Son grand-p\u00e8re est chauve depuis de nombreuses ann\u00e9es."
+  },
+  {
+    "French": "plut\u00f4t",
+    "English": "rather",
+    "SampleSentence": "Je pr\u00e9f\u00e8re le caf\u00e9 plut\u00f4t que le th\u00e9."
+  },
+  {
+    "French": "foule",
+    "English": "crowd",
+    "SampleSentence": "Une foule immense s'est rassembl\u00e9e pour le concert."
+  },
+  {
+    "French": "oxyg\u00e8ne",
+    "English": "oxygen",
+    "SampleSentence": "Les plantes produisent de l'oxyg\u00e8ne lors de la photosynth\u00e8se."
+  },
+  {
+    "French": "sucre",
+    "English": "sugar",
+    "SampleSentence": "Je n'ajoute jamais de sucre \u00e0 mon caf\u00e9."
+  },
+  {
+    "French": "d\u00e9c\u00e8s",
+    "English": "death",
+    "SampleSentence": "Elle \u00e9tait tr\u00e8s \u00e9mue par le d\u00e9c\u00e8s de son grand-p\u00e8re."
+  },
+  {
+    "French": "assez",
+    "English": "enough",
+    "SampleSentence": "Nous avons assez de pain pour le d\u00eener."
+  },
+  {
+    "French": "comp\u00e9tence",
+    "English": "skill",
+    "SampleSentence": "La ma\u00eetrise du fran\u00e7ais est une comp\u00e9tence pr\u00e9cieuse."
+  },
+  {
+    "French": "femmes",
+    "English": "women",
+    "SampleSentence": "Les femmes ont jou\u00e9 un r\u00f4le essentiel dans l'histoire."
+  },
+  {
+    "French": "saison",
+    "English": "season",
+    "SampleSentence": "L'automne est ma saison pr\u00e9f\u00e9r\u00e9e."
+  },
+  {
+    "French": "solution",
+    "English": "solution",
+    "SampleSentence": "Il a trouv\u00e9 une solution \u00e0 ce probl\u00e8me difficile."
+  },
+  {
+    "French": "aimant",
+    "English": "magnet",
+    "SampleSentence": "L'aimant attire les objets en m\u00e9tal."
+  },
+  {
+    "French": "argent",
+    "English": "money",
+    "SampleSentence": "Elle a d\u00e9pens\u00e9 tout son argent en v\u00eatements."
+  },
+  {
+    "French": "merci",
+    "English": "thank you",
+    "SampleSentence": "Merci beaucoup pour votre aide."
+  },
+  {
+    "French": "branche",
+    "English": "branch",
+    "SampleSentence": "Les oiseaux se posent sur la branche de cet arbre."
+  },
+  {
+    "French": "rencontre",
+    "English": "meeting",
+    "SampleSentence": "Nous devons nous pr\u00e9parer pour la rencontre de demain."
+  },
+  {
+    "French": "suffixe",
+    "English": "suffix",
+    "SampleSentence": "Le suffixe -ment transforme un adjectif en adverbe."
+  },
+  {
+    "French": "particuli\u00e8rement",
+    "English": "particularly",
+    "SampleSentence": "Je l'aime particuli\u00e8rement dans cette robe."
+  },
+  {
+    "French": "figue",
+    "English": "fig",
+    "SampleSentence": "Il a ramass\u00e9 des figues m\u00fbres dans le jardin."
+  },
+  {
+    "French": "peur",
+    "English": "fear",
+    "SampleSentence": "Elle ressentait une grande peur lors de son premier saut en parachute."
+  },
+  {
+    "French": "\u00e9norme",
+    "English": "enormous",
+    "SampleSentence": "Il a une \u00e9norme collection de timbres rares."
+  },
+  {
+    "French": "s\u0153ur",
+    "English": "sister",
+    "SampleSentence": "Ma s\u0153ur est une artiste talentueuse."
+  },
+  {
+    "French": "acier",
+    "English": "steel",
+    "SampleSentence": "Les poutres de l'immeuble sont en acier."
+  },
+  {
+    "French": "discuter",
+    "English": "to discuss",
+    "SampleSentence": "Nous devons discuter de ce probl\u00e8me en r\u00e9union."
+  },
+  {
+    "French": "Bonjour",
+    "English": "Hello",
+    "SampleSentence": "Bonjour! Comment \u00e7a va?"
+  },
+  {
+    "French": "Oui",
+    "English": "Yes",
+    "SampleSentence": "Oui, je veux bien."
+  },
+  {
+    "French": "Non",
+    "English": "No",
+    "SampleSentence": "Non, merci."
+  },
+  {
+    "French": "Merci",
+    "English": "Thank you",
+    "SampleSentence": "Merci beaucoup pour votre aide."
+  },
+  {
+    "French": "S'il vous pla\u00eet",
+    "English": "Please",
+    "SampleSentence": "S'il vous pla\u00eet, pouvez-vous m'aider?"
+  }
+]

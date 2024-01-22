@@ -22,6 +22,57 @@ function secondsToString(seconds) {
     return numhours + " hours " + numminutes + " minutes " + numseconds + " seconds";
 }
 
+function populate_ai_img(display) {
+    if (display) {
+        var url = Get("https://inspirobot.me/api?generate=true");
+        this.document.getElementById("AI_img").src = url;
+    } else {
+        this.document.getElementById("AI_img_div").style.display = 'none';
+    }
+}
+
+function populate_quotes(display) {
+    if (display) {
+        var json_obj = JSON.parse(Get("assets/quotes.json"));
+        document.getElementById("quote").innerHTML =
+            json_obj.data[getRandomInt(json_obj.data.length)].inspirational_quote;
+    } else {
+        this.document.getElementById("quote").style.display = 'none';
+    }
+}
+
+function populate_yoga(display) {
+    if (display) {
+        var json_obj = JSON.parse(Get("assets/yoga_poses.json"));
+
+        // Concatenate the "poses" field for each object in the array
+        const all_poses = json_obj.reduce((acc, cur) => acc.concat(cur.poses), []);
+
+        var pose = all_poses[getRandomInt(all_poses.length)];
+        this.document.getElementById("yoga_pose_name").innerHTML = `${pose.english_name} (${pose.sanskrit_name})`;
+        this.document.getElementById("yoga_pose_etymology").innerHTML = `${pose.translation_name}`;
+        this.document.getElementById("yoga_pose_img").src = pose.url_svg;
+        this.document.getElementById("yoga_pose_desc").innerHTML = `${pose.pose_benefits}<br /><br />${pose.pose_description}`;
+    } else {
+        this.document.getElementById("yoga").style.display = 'none';
+    }
+}
+
+function populate_french(display) {
+    if (display) {
+        var json_obj = JSON.parse(Get("assets/french_words_by_freq.json"));
+        // var word = json_obj[getRandomInt(json_obj.length)];
+        chrome.storage.sync.get('zipf_parameter', function(data) {
+            var wordIndex = getRandomZipfIndex(json_obj.length, data.zipf_parameter);
+            var word = json_obj[wordIndex];
+            this.document.getElementById("word").innerHTML = word.French + " = " + word.English;
+            this.document.getElementById("example").innerHTML = "Par exemple: " + word.SampleSentence;
+        });
+    } else {
+        this.document.getElementById("french").style.display = 'none';
+    }
+}
+
 window.onload = function() {
     chrome.storage.local.get('btdur', function(data) {
         if (data.btdur !== undefined) {
@@ -29,13 +80,17 @@ window.onload = function() {
         }
     });
 
-    var json_obj = JSON.parse(Get("quotes.json"));
-    document.getElementById("result").innerHTML =
-        json_obj.data[getRandomInt(json_obj.data.length)].inspirational_quote;
-
-    var url = Get("https://inspirobot.me/api?generate=true");
-    this.document.getElementById("img").src = url;
-
+    const func_opts = {
+      AI_img: populate_ai_img,
+      quote: populate_quotes,
+      yoga_pose: populate_yoga,
+      french_word: populate_french,
+    };
+    for (const [opt, func] of Object.entries(func_opts)) {
+        chrome.storage.sync.get({ [opt]: false }, function(data) {
+            func(data[opt]);
+        });
+    }
 
     chrome.storage.sync.get('breaktimer', function(data) {
         breakDuration = data.breaktimer.duration;

@@ -1,0 +1,1237 @@
+[
+  {
+    "French": "Bonjour",
+    "English": "Hello",
+    "SampleSentence": "Bonjour! Comment \u00e7a va?"
+  },
+  {
+    "French": "Oui",
+    "English": "Yes",
+    "SampleSentence": "Oui, je veux bien."
+  },
+  {
+    "French": "Non",
+    "English": "No",
+    "SampleSentence": "Non, merci."
+  },
+  {
+    "French": "Merci",
+    "English": "Thank you",
+    "SampleSentence": "Merci beaucoup!"
+  },
+  {
+    "French": "S'il vous pla\u00eet",
+    "English": "Please",
+    "SampleSentence": "Pouvez-vous m'aider, s'il vous pla\u00eet?"
+  },
+  {
+    "French": "Excusez-moi",
+    "English": "Excuse me",
+    "SampleSentence": "Excusez-moi, je suis en retard."
+  },
+  {
+    "French": "Au revoir",
+    "English": "Goodbye",
+    "SampleSentence": "Au revoir, \u00e0 bient\u00f4t!"
+  },
+  {
+    "French": "Oui",
+    "English": "Yes",
+    "SampleSentence": "Oui, c'est \u00e7a!"
+  },
+  {
+    "French": "Non",
+    "English": "No",
+    "SampleSentence": "Non, ce n'est pas possible."
+  },
+  {
+    "French": "Manger",
+    "English": "To eat",
+    "SampleSentence": "J'aime manger des croissants."
+  },
+  {
+    "French": "Boire",
+    "English": "To drink",
+    "SampleSentence": "Je vais boire du caf\u00e9."
+  },
+  {
+    "French": "Aller",
+    "English": "To go",
+    "SampleSentence": "Je vais aller au cin\u00e9ma ce soir."
+  },
+  {
+    "French": "Voir",
+    "English": "To see",
+    "SampleSentence": "Je veux voir ce film."
+  },
+  {
+    "French": "Faire",
+    "English": "To do / To make",
+    "SampleSentence": "Qu'est-ce que tu fais?"
+  },
+  {
+    "French": "Aimer",
+    "English": "To like / To love",
+    "SampleSentence": "J'aime beaucoup la musique."
+  },
+  {
+    "French": "Parler",
+    "English": "To speak",
+    "SampleSentence": "Je parle fran\u00e7ais et anglais."
+  },
+  {
+    "French": "\u00c9couter",
+    "English": "To listen",
+    "SampleSentence": "J'adore \u00e9couter de la musique."
+  },
+  {
+    "French": "Lire",
+    "English": "To read",
+    "SampleSentence": "Je lis un livre int\u00e9ressant."
+  },
+  {
+    "French": "\u00c9crire",
+    "English": "To write",
+    "SampleSentence": "J'\u00e9cris des po\u00e8mes."
+  },
+  {
+    "French": "Regarder",
+    "English": "To watch",
+    "SampleSentence": "Je regarde la t\u00e9l\u00e9vision."
+  },
+  {
+    "French": "Acheter",
+    "English": "To buy",
+    "SampleSentence": "Je vais acheter un cadeau."
+  },
+  {
+    "French": "Vendre",
+    "English": "To sell",
+    "SampleSentence": "Il veut vendre sa voiture."
+  },
+  {
+    "French": "Venir",
+    "English": "To come",
+    "SampleSentence": "Quand vas-tu venir?"
+  },
+  {
+    "French": "Partir",
+    "English": "To leave",
+    "SampleSentence": "Elle va partir bient\u00f4t."
+  },
+  {
+    "French": "Savoir",
+    "English": "To know (information)",
+    "SampleSentence": "Je ne sais pas."
+  },
+  {
+    "French": "Conna\u00eetre",
+    "English": "To know (a person/place)",
+    "SampleSentence": "Je connais bien cette ville."
+  },
+  {
+    "French": "Pouvoir",
+    "English": "To be able to / Can",
+    "SampleSentence": "Je peux le faire."
+  },
+  {
+    "French": "Vouloir",
+    "English": "To want",
+    "SampleSentence": "Je veux partir."
+  },
+  {
+    "French": "Devoir",
+    "English": "To have to / Must",
+    "SampleSentence": "Tu dois \u00e9tudier."
+  },
+  {
+    "French": "Avoir",
+    "English": "To have",
+    "SampleSentence": "J'ai un chat."
+  },
+  {
+    "French": "\u00catre",
+    "English": "To be",
+    "SampleSentence": "Je suis content."
+  },
+  {
+    "French": "Le",
+    "English": "The (masculine)",
+    "SampleSentence": "Le chien est mignon."
+  },
+  {
+    "French": "La",
+    "English": "The (feminine)",
+    "SampleSentence": "La fleur est belle."
+  },
+  {
+    "French": "Un",
+    "English": "A / An (masculine)",
+    "SampleSentence": "Un livre int\u00e9ressant."
+  },
+  {
+    "French": "Une",
+    "English": "A / An (feminine)",
+    "SampleSentence": "Une pomme rouge."
+  },
+  {
+    "French": "C'est",
+    "English": "It's / That's",
+    "SampleSentence": "C'est un joli tableau."
+  },
+  {
+    "French": "Je",
+    "English": "I",
+    "SampleSentence": "Je suis fatigu\u00e9."
+  },
+  {
+    "French": "Tu",
+    "English": "You (informal)",
+    "SampleSentence": "Tu es gentil."
+  },
+  {
+    "French": "Il",
+    "English": "He / It",
+    "SampleSentence": "Il est intelligent."
+  },
+  {
+    "French": "Elle",
+    "English": "She / It",
+    "SampleSentence": "Elle est belle."
+  },
+  {
+    "French": "Nous",
+    "English": "We",
+    "SampleSentence": "Nous sommes amis."
+  },
+  {
+    "French": "Vous",
+    "English": "You (formal / plural)",
+    "SampleSentence": "Vous \u00eates sympathiques."
+  },
+  {
+    "French": "Ils",
+    "English": "They (masculine)",
+    "SampleSentence": "Ils sont dr\u00f4les."
+  },
+  {
+    "French": "Elles",
+    "English": "They (feminine)",
+    "SampleSentence": "Elles sont amies."
+  },
+  {
+    "French": "Mon",
+    "English": "My (masculine)",
+    "SampleSentence": "Mon ami est ici."
+  },
+  {
+    "French": "Ma",
+    "English": "My (feminine)",
+    "SampleSentence": "Ma s\u0153ur est gentille."
+  },
+  {
+    "French": "Ton",
+    "English": "Your (informal, masculine)",
+    "SampleSentence": "Ton fr\u00e8re est intelligent."
+  },
+  {
+    "French": "Ta",
+    "English": "Your (informal, feminine)",
+    "SampleSentence": "Ta voiture est rapide."
+  },
+  {
+    "French": "Son",
+    "English": "His / Her / Its",
+    "SampleSentence": "Son chien est mignon."
+  },
+  {
+    "French": "Leur",
+    "English": "Their",
+    "SampleSentence": "Leur maison est grande."
+  },
+  {
+    "French": "Notre",
+    "English": "Our",
+    "SampleSentence": "Notre famille est heureuse."
+  },
+  {
+    "French": "Plus",
+    "English": "More",
+    "SampleSentence": "J'en veux plus."
+  },
+  {
+    "French": "Moins",
+    "English": "Less",
+    "SampleSentence": "Il y a moins de monde ici."
+  },
+  {
+    "French": "Tout",
+    "English": "All / Everything",
+    "SampleSentence": "Tout va bien."
+  },
+  {
+    "French": "Beaucoup",
+    "English": "A lot / Much",
+    "SampleSentence": "J'aime beaucoup ce film."
+  },
+  {
+    "French": "Peu",
+    "English": "Few / Little",
+    "SampleSentence": "Il y a peu de temps."
+  },
+  {
+    "French": "Maintenant",
+    "English": "Now",
+    "SampleSentence": "Je vais manger maintenant."
+  },
+  {
+    "French": "Hier",
+    "English": "Yesterday",
+    "SampleSentence": "J'ai vu un film hier."
+  },
+  {
+    "French": "Demain",
+    "English": "Tomorrow",
+    "SampleSentence": "Nous irons \u00e0 la plage demain."
+  },
+  {
+    "French": "Matin",
+    "English": "Morning",
+    "SampleSentence": "Le matin, je prends mon caf\u00e9."
+  },
+  {
+    "French": "Soir",
+    "English": "Evening",
+    "SampleSentence": "Le soir, je regarde la t\u00e9l\u00e9vision."
+  },
+  {
+    "French": "Nuit",
+    "English": "Night",
+    "SampleSentence": "Bonne nuit!"
+  },
+  {
+    "French": "Homme",
+    "English": "Man",
+    "SampleSentence": "Cet homme est gentil."
+  },
+  {
+    "French": "Femme",
+    "English": "Woman",
+    "SampleSentence": "Cette femme est intelligente."
+  },
+  {
+    "French": "Enfant",
+    "English": "Child",
+    "SampleSentence": "Les enfants jouent dans le parc."
+  },
+  {
+    "French": "Ami",
+    "English": "Friend",
+    "SampleSentence": "Il est mon ami."
+  },
+  {
+    "French": "Amie",
+    "English": "Friend (feminine)",
+    "SampleSentence": "Elle est mon amie."
+  },
+  {
+    "French": "Maison",
+    "English": "House",
+    "SampleSentence": "Ma maison est grande."
+  },
+  {
+    "French": "Voiture",
+    "English": "Car",
+    "SampleSentence": "Ma voiture est rapide."
+  },
+  {
+    "French": "Chien",
+    "English": "Dog",
+    "SampleSentence": "Mon chien est joueur."
+  },
+  {
+    "French": "Chat",
+    "English": "Cat",
+    "SampleSentence": "Le chat est sur le canap\u00e9."
+  },
+  {
+    "French": "Fleur",
+    "English": "Flower",
+    "SampleSentence": "Cette fleur est jolie."
+  },
+  {
+    "French": "Arbre",
+    "English": "Tree",
+    "SampleSentence": "L'arbre est grand."
+  },
+  {
+    "French": "Ville",
+    "English": "City",
+    "SampleSentence": "Paris est une belle ville."
+  },
+  {
+    "French": "Pays",
+    "English": "Country",
+    "SampleSentence": "La France est un beau pays."
+  },
+  {
+    "French": "Eau",
+    "English": "Water",
+    "SampleSentence": "J'ai soif, je veux de l'eau."
+  },
+  {
+    "French": "Nourriture",
+    "English": "Food",
+    "SampleSentence": "J'aime la nourriture fran\u00e7aise."
+  },
+  {
+    "French": "Boisson",
+    "English": "Drink",
+    "SampleSentence": "Quelle boisson pr\u00e9f\u00e8res-tu?"
+  },
+  {
+    "French": "Musique",
+    "English": "Music",
+    "SampleSentence": "La musique me d\u00e9tend."
+  },
+  {
+    "French": "Film",
+    "English": "Movie / Film",
+    "SampleSentence": "Ce film est g\u00e9nial."
+  },
+  {
+    "French": "Livre",
+    "English": "Book",
+    "SampleSentence": "Je lis un livre int\u00e9ressant."
+  },
+  {
+    "French": "Temps",
+    "English": "Time / Weather",
+    "SampleSentence": "Quel temps fait-il aujourd'hui?"
+  },
+  {
+    "French": "Travail",
+    "English": "Work / Job",
+    "SampleSentence": "Je vais au travail."
+  },
+  {
+    "French": "\u00c9cole",
+    "English": "School",
+    "SampleSentence": "Les enfants vont \u00e0 l'\u00e9cole."
+  },
+  {
+    "French": "Chambre",
+    "English": "Room",
+    "SampleSentence": "Ma chambre est confortable."
+  },
+  {
+    "French": "Porte",
+    "English": "Door",
+    "SampleSentence": "La porte est ferm\u00e9e."
+  },
+  {
+    "French": "Fen\u00eatre",
+    "English": "Window",
+    "SampleSentence": "Ouvre la fen\u00eatre, s'il te pla\u00eet."
+  },
+  {
+    "French": "Table",
+    "English": "Table",
+    "SampleSentence": "Nous mangeons \u00e0 la table."
+  },
+  {
+    "French": "Chaise",
+    "English": "Chair",
+    "SampleSentence": "Prends une chaise."
+  },
+  {
+    "French": "Lit",
+    "English": "Bed",
+    "SampleSentence": "Je vais au lit t\u00f4t ce soir."
+  },
+  {
+    "French": "Cuisine",
+    "English": "Kitchen",
+    "SampleSentence": "La cuisine est bien \u00e9quip\u00e9e."
+  },
+  {
+    "French": "Salle de bains",
+    "English": "Bathroom",
+    "SampleSentence": "La salle de bains est propre."
+  },
+  {
+    "French": "Salon",
+    "English": "Living room",
+    "SampleSentence": "Le salon est spacieux."
+  },
+  {
+    "French": "T\u00e9l\u00e9vision",
+    "English": "Television",
+    "SampleSentence": "Regarde la t\u00e9l\u00e9vision avec moi."
+  },
+  {
+    "French": "T\u00e9l\u00e9phone",
+    "English": "Phone",
+    "SampleSentence": "R\u00e9ponds au t\u00e9l\u00e9phone, s'il te pla\u00eet."
+  },
+  {
+    "French": "Ordinateur",
+    "English": "Computer",
+    "SampleSentence": "J'utilise mon ordinateur pour travailler."
+  },
+  {
+    "French": "Internet",
+    "English": "Internet",
+    "SampleSentence": "L'Internet est indispensable de nos jours."
+  },
+  {
+    "French": "Jour",
+    "English": "Day",
+    "SampleSentence": "Il fait beau jour."
+  },
+  {
+    "French": "Nuit",
+    "English": "Night",
+    "SampleSentence": "La nuit est \u00e9toil\u00e9e."
+  },
+  {
+    "French": "Semaine",
+    "English": "Week",
+    "SampleSentence": "Je vais en vacances la semaine prochaine."
+  },
+  {
+    "French": "Mois",
+    "English": "Month",
+    "SampleSentence": "Mon anniversaire est ce mois-ci."
+  },
+  {
+    "French": "Ann\u00e9e",
+    "English": "Year",
+    "SampleSentence": "La nouvelle ann\u00e9e approche."
+  },
+  {
+    "French": "Heure",
+    "English": "Hour",
+    "SampleSentence": "Quelle heure est-il?"
+  },
+  {
+    "French": "Minute",
+    "English": "Minute",
+    "SampleSentence": "Attends une minute, s'il te pla\u00eet."
+  },
+  {
+    "French": "Seconde",
+    "English": "Second",
+    "SampleSentence": "Le chronom\u00e8tre mesure les secondes."
+  },
+  {
+    "French": "Matin\u00e9e",
+    "English": "Morning (period)",
+    "SampleSentence": "J'adore les matin\u00e9es calmes."
+  },
+  {
+    "French": "Apr\u00e8s-midi",
+    "English": "Afternoon",
+    "SampleSentence": "On se voit en fin d'apr\u00e8s-midi."
+  },
+  {
+    "French": "Soir\u00e9e",
+    "English": "Evening (period)",
+    "SampleSentence": "Nous avons une soir\u00e9e sp\u00e9ciale ce soir."
+  },
+  {
+    "French": "Hier soir",
+    "English": "Last night",
+    "SampleSentence": "J'ai regard\u00e9 un film hier soir."
+  },
+  {
+    "French": "Ce soir",
+    "English": "Tonight",
+    "SampleSentence": "Nous sortons ce soir."
+  },
+  {
+    "French": "Demain matin",
+    "English": "Tomorrow morning",
+    "SampleSentence": "Je me l\u00e8ve t\u00f4t demain matin."
+  },
+  {
+    "French": "Demain soir",
+    "English": "Tomorrow evening",
+    "SampleSentence": "Nous d\u00eenons ensemble demain soir."
+  },
+  {
+    "French": "Midi",
+    "English": "Noon",
+    "SampleSentence": "Il est midi, c'est l'heure de manger."
+  },
+  {
+    "French": "Minuit",
+    "English": "Midnight",
+    "SampleSentence": "Les \u00e9toiles brillent \u00e0 minuit."
+  },
+  {
+    "French": "Plat",
+    "English": "Dish",
+    "SampleSentence": "Ce plat est d\u00e9licieux."
+  },
+  {
+    "French": "Couteau",
+    "English": "Knife",
+    "SampleSentence": "Le couteau est tranchant."
+  },
+  {
+    "French": "Fourchette",
+    "English": "Fork",
+    "SampleSentence": "Prends une fourchette pour manger."
+  },
+  {
+    "French": "Cuill\u00e8re",
+    "English": "Spoon",
+    "SampleSentence": "Remue avec une cuill\u00e8re."
+  },
+  {
+    "French": "Assiette",
+    "English": "Plate",
+    "SampleSentence": "Mets l'assiette sur la table."
+  },
+  {
+    "French": "Verre",
+    "English": "Glass",
+    "SampleSentence": "Le verre est vide."
+  },
+  {
+    "French": "Tasse",
+    "English": "Cup",
+    "SampleSentence": "Prends une tasse de caf\u00e9."
+  },
+  {
+    "French": "Bouteille",
+    "English": "Bottle",
+    "SampleSentence": "La bouteille est pleine."
+  },
+  {
+    "French": "Vin",
+    "English": "Wine",
+    "SampleSentence": "Nous avons du bon vin."
+  },
+  {
+    "French": "Eau min\u00e9rale",
+    "English": "Mineral water",
+    "SampleSentence": "Je bois de l'eau min\u00e9rale."
+  },
+  {
+    "French": "Caf\u00e9",
+    "English": "Coffee",
+    "SampleSentence": "Je prends un caf\u00e9 le matin."
+  },
+  {
+    "French": "Th\u00e9",
+    "English": "Tea",
+    "SampleSentence": "Le th\u00e9 est parfum\u00e9."
+  },
+  {
+    "French": "Lait",
+    "English": "Milk",
+    "SampleSentence": "Ajoute du lait dans le caf\u00e9."
+  },
+  {
+    "French": "Sucre",
+    "English": "Sugar",
+    "SampleSentence": "Je mets du sucre dans mon th\u00e9."
+  },
+  {
+    "French": "Sel",
+    "English": "Salt",
+    "SampleSentence": "Le sel donne du go\u00fbt."
+  },
+  {
+    "French": "Poivre",
+    "English": "Pepper",
+    "SampleSentence": "Ajoute du poivre pour relever le plat."
+  },
+  {
+    "French": "Huile",
+    "English": "Oil",
+    "SampleSentence": "L'huile d'olive est saine."
+  },
+  {
+    "French": "Beurre",
+    "English": "Butter",
+    "SampleSentence": "Tartine le pain de beurre."
+  },
+  {
+    "French": "Pain",
+    "English": "Bread",
+    "SampleSentence": "J'adore l'odeur du pain frais."
+  },
+  {
+    "French": "Fromage",
+    "English": "Cheese",
+    "SampleSentence": "Le fromage fran\u00e7ais est d\u00e9licieux."
+  },
+  {
+    "French": "Viande",
+    "English": "Meat",
+    "SampleSentence": "Nous avons de la viande pour le d\u00eener."
+  },
+  {
+    "French": "Poulet",
+    "English": "Chicken",
+    "SampleSentence": "Le poulet r\u00f4ti est succulent."
+  },
+  {
+    "French": "Poisson",
+    "English": "Fish",
+    "SampleSentence": "Le poisson est frais du march\u00e9."
+  },
+  {
+    "French": "L\u00e9gumes",
+    "English": "Vegetables",
+    "SampleSentence": "Mange plus de l\u00e9gumes pour \u00eatre en forme."
+  },
+  {
+    "French": "Fruits",
+    "English": "Fruits",
+    "SampleSentence": "Les fruits sont sucr\u00e9s et juteux."
+  },
+  {
+    "French": "Sauce",
+    "English": "Sauce",
+    "SampleSentence": "Cette sauce est \u00e9pic\u00e9e."
+  },
+  {
+    "French": "Dessert",
+    "English": "Dessert",
+    "SampleSentence": "Le dessert est une tarte aux pommes."
+  },
+  {
+    "French": "Caf\u00e9t\u00e9ria",
+    "English": "Cafeteria",
+    "SampleSentence": "Allons \u00e0 la caf\u00e9t\u00e9ria pour d\u00e9jeuner."
+  },
+  {
+    "French": "Restaurant",
+    "English": "Restaurant",
+    "SampleSentence": "Nous d\u00eenons dans un restaurant chic."
+  },
+  {
+    "French": "Serveur",
+    "English": "Waiter",
+    "SampleSentence": "Le serveur prend notre commande."
+  },
+  {
+    "French": "Menu",
+    "English": "Menu",
+    "SampleSentence": "Le menu propose des plats vari\u00e9s."
+  },
+  {
+    "French": "Commander",
+    "English": "To order",
+    "SampleSentence": "Je vais commander une salade."
+  },
+  {
+    "French": "Payer",
+    "English": "To pay",
+    "SampleSentence": "Je vais payer l'addition."
+  },
+  {
+    "French": "Facture",
+    "English": "Bill / Check",
+    "SampleSentence": "La facture s'\u00e9l\u00e8ve \u00e0 50 euros."
+  },
+  {
+    "French": "Monnaie",
+    "English": "Change / Coins",
+    "SampleSentence": "Je n'ai pas de monnaie."
+  },
+  {
+    "French": "Argent",
+    "English": "Money",
+    "SampleSentence": "L'argent ne fait pas le bonheur."
+  },
+  {
+    "French": "Billet",
+    "English": "Banknote",
+    "SampleSentence": "Un billet de 20 euros."
+  },
+  {
+    "French": "Carte de cr\u00e9dit",
+    "English": "Credit card",
+    "SampleSentence": "Je paie avec ma carte de cr\u00e9dit."
+  },
+  {
+    "French": "Bijou",
+    "English": "Jewelry",
+    "SampleSentence": "Elle porte des bijoux \u00e9l\u00e9gants."
+  },
+  {
+    "French": "Montre",
+    "English": "Watch",
+    "SampleSentence": "Ma montre est en avance."
+  },
+  {
+    "French": "Sac",
+    "English": "Bag",
+    "SampleSentence": "Elle a un sac \u00e0 main en cuir."
+  },
+  {
+    "French": "V\u00eatements",
+    "English": "Clothes",
+    "SampleSentence": "Les v\u00eatements sont \u00e0 la mode."
+  },
+  {
+    "French": "Chaussures",
+    "English": "Shoes",
+    "SampleSentence": "J'adore les nouvelles chaussures."
+  },
+  {
+    "French": "Chapeau",
+    "English": "Hat",
+    "SampleSentence": "Il porte un chapeau \u00e9l\u00e9gant."
+  },
+  {
+    "French": "\u00c9charpe",
+    "English": "Scarf",
+    "SampleSentence": "Je mets une \u00e9charpe pour me r\u00e9chauffer."
+  },
+  {
+    "French": "Gant",
+    "English": "Glove",
+    "SampleSentence": "Prends des gants s'il fait froid."
+  },
+  {
+    "French": "Parapluie",
+    "English": "Umbrella",
+    "SampleSentence": "Il pleut, prends un parapluie."
+  },
+  {
+    "French": "Lunettes",
+    "English": "Glasses",
+    "SampleSentence": "Elle porte des lunettes de soleil."
+  },
+  {
+    "French": "Miroir",
+    "English": "Mirror",
+    "SampleSentence": "Regarde-toi dans le miroir."
+  },
+  {
+    "French": "Maquillage",
+    "English": "Makeup",
+    "SampleSentence": "Elle met du maquillage tous les jours."
+  },
+  {
+    "French": "Cr\u00e8me",
+    "English": "Cream",
+    "SampleSentence": "J'utilise de la cr\u00e8me hydratante."
+  },
+  {
+    "French": "Savon",
+    "English": "Soap",
+    "SampleSentence": "Le savon sent bon."
+  },
+  {
+    "French": "Brosse \u00e0 dents",
+    "English": "Toothbrush",
+    "SampleSentence": "Change ta brosse \u00e0 dents r\u00e9guli\u00e8rement."
+  },
+  {
+    "French": "Dentifrice",
+    "English": "Toothpaste",
+    "SampleSentence": "Met du dentifrice sur ta brosse."
+  },
+  {
+    "French": "Shampoing",
+    "English": "Shampoo",
+    "SampleSentence": "J'utilise un shampoing doux."
+  },
+  {
+    "French": "la porte",
+    "English": "door",
+    "SampleSentence": "Fermez la porte, s'il vous pla\u00eet."
+  },
+  {
+    "French": "fen\u00eatre",
+    "English": "window",
+    "SampleSentence": "Ouvrez la fen\u00eatre, j'ai chaud."
+  },
+  {
+    "French": "chaise",
+    "English": "chair",
+    "SampleSentence": "Asseyez-vous sur la chaise."
+  },
+  {
+    "French": "table",
+    "English": "table",
+    "SampleSentence": "Elle met le vase sur la table."
+  },
+  {
+    "French": "lampe",
+    "English": "lamp",
+    "SampleSentence": "Allumez la lampe, il fait sombre."
+  },
+  {
+    "French": "lit",
+    "English": "bed",
+    "SampleSentence": "Je vais me coucher dans mon lit."
+  },
+  {
+    "French": "Main",
+    "English": "Hand",
+    "SampleSentence": "Je me lave les mains."
+  },
+  {
+    "French": "Pied",
+    "English": "Foot",
+    "SampleSentence": "Je mets mes chaussures avec les pieds."
+  },
+  {
+    "French": "Manger",
+    "English": "To eat",
+    "SampleSentence": "Je veux manger une pizza."
+  },
+  {
+    "French": "Boire",
+    "English": "To drink",
+    "SampleSentence": "Je vais boire de l'eau."
+  },
+  {
+    "French": "Corps",
+    "English": "Body",
+    "SampleSentence": "Elle fait du yoga pour assouplir son corps."
+  },
+  {
+    "French": "Esprit",
+    "English": "Mind",
+    "SampleSentence": "La m\u00e9ditation est bonne pour l'esprit."
+  },
+  {
+    "French": "Relaxation",
+    "English": "Relaxation",
+    "SampleSentence": "Apr\u00e8s une longue journ\u00e9e, elle aime faire de la relaxation."
+  },
+  {
+    "French": "Yoga",
+    "English": "Yoga",
+    "SampleSentence": "Elle pratique le yoga tous les matins."
+  },
+  {
+    "French": "Respiration",
+    "English": "Breath",
+    "SampleSentence": "La respiration est essentielle pendant le yoga."
+  },
+  {
+    "French": "Plante",
+    "English": "Plant",
+    "SampleSentence": "Elle adore les plantes dans sa maison."
+  },
+  {
+    "French": "\u00c9tirement",
+    "English": "Stretching",
+    "SampleSentence": "Les \u00e9tirements sont n\u00e9cessaires avant de faire du sport."
+  },
+  {
+    "French": "Souplesse",
+    "English": "Flexibility",
+    "SampleSentence": "La souplesse est importante pour \u00e9viter les blessures."
+  },
+  {
+    "French": "Force",
+    "English": "Strength",
+    "SampleSentence": "Elle fait de la musculation pour gagner en force."
+  },
+  {
+    "French": "Entra\u00eenement",
+    "English": "Training",
+    "SampleSentence": "Son entra\u00eenement est tr\u00e8s intense."
+  },
+  {
+    "French": "\u00c9nergie",
+    "English": "Energy",
+    "SampleSentence": "Le yoga lui donne beaucoup d'\u00e9nergie."
+  },
+  {
+    "French": "D\u00e9tente",
+    "English": "Relaxation",
+    "SampleSentence": "Apr\u00e8s l'entra\u00eenement, elle se d\u00e9tend dans un bain chaud."
+  },
+  {
+    "French": "Pilates",
+    "English": "Pilates",
+    "SampleSentence": "Elle a r\u00e9cemment commenc\u00e9 le Pilates."
+  },
+  {
+    "French": "Sant\u00e9",
+    "English": "Health",
+    "SampleSentence": "La sant\u00e9 est la priorit\u00e9 num\u00e9ro un."
+  },
+  {
+    "French": "Bien-\u00eatre",
+    "English": "Well-being",
+    "SampleSentence": "Elle cherche le bien-\u00eatre \u00e0 travers le sport et la m\u00e9ditation."
+  },
+  {
+    "French": "Balancement",
+    "English": "Swinging",
+    "SampleSentence": "Le balancement dans le yoga apporte de la d\u00e9tente."
+  },
+  {
+    "French": "Ferme",
+    "English": "Firm",
+    "SampleSentence": "Elle veut un corps ferme et muscl\u00e9."
+  },
+  {
+    "French": "Matelas",
+    "English": "Mat",
+    "SampleSentence": "Elle ach\u00e8te un nouveau matelas pour le yoga."
+  },
+  {
+    "French": "Calme",
+    "English": "Calm",
+    "SampleSentence": "Le yoga lui apporte un sentiment de calme int\u00e9rieur."
+  },
+  {
+    "French": "Elasticit\u00e9",
+    "English": "Elasticity",
+    "SampleSentence": "L'\u00e9lasticit\u00e9 de son corps s'am\u00e9liore gr\u00e2ce au yoga."
+  },
+  {
+    "French": "Suivre",
+    "English": "To follow",
+    "SampleSentence": "Elle aime suivre des cours de yoga en ligne."
+  },
+  {
+    "French": "Bonjour",
+    "English": "Hello",
+    "SampleSentence": "Bonjour! Comment \u00e7a va?"
+  },
+  {
+    "French": "Oui",
+    "English": "Yes",
+    "SampleSentence": "Oui, je veux bien."
+  },
+  {
+    "French": "Non",
+    "English": "No",
+    "SampleSentence": "Non, merci."
+  },
+  {
+    "French": "Bonjour",
+    "English": "Hello",
+    "SampleSentence": "Bonjour! Comment \u00e7a va?"
+  },
+  {
+    "French": "Oui",
+    "English": "Yes",
+    "SampleSentence": "Oui, je veux bien."
+  },
+  {
+    "French": "Non",
+    "English": "No",
+    "SampleSentence": "Non, merci."
+  },
+  {
+    "French": "Manger",
+    "English": "Eat",
+    "SampleSentence": "Je veux manger maintenant."
+  },
+  {
+    "French": "Boire",
+    "English": "Drink",
+    "SampleSentence": "Je vais boire de l'eau."
+  },
+  {
+    "French": "Aimer",
+    "English": "Like",
+    "SampleSentence": "J'aime la musique."
+  },
+  {
+    "French": "Regarder",
+    "English": "Watch",
+    "SampleSentence": "Je vais regarder le film."
+  },
+  {
+    "French": "Voir",
+    "English": "See",
+    "SampleSentence": "Je le vois maintenant."
+  },
+  {
+    "French": "Faire",
+    "English": "Do",
+    "SampleSentence": "Qu'est-ce que tu veux faire?"
+  },
+  {
+    "French": "Vouloir",
+    "English": "Want",
+    "SampleSentence": "Je veux partir maintenant."
+  },
+  {
+    "French": "Pouvoir",
+    "English": "Can",
+    "SampleSentence": "Je ne peux pas le faire."
+  },
+  {
+    "French": "Aller",
+    "English": "Go",
+    "SampleSentence": "Je vais aller au restaurant."
+  },
+  {
+    "French": "Venir",
+    "English": "Come",
+    "SampleSentence": "Je vais venir plus tard."
+  },
+  {
+    "French": "Savoir",
+    "English": "Know",
+    "SampleSentence": "Je sais tout."
+  },
+  {
+    "French": "Payer",
+    "English": "Pay",
+    "SampleSentence": "Vous pouvez payer par carte."
+  },
+  {
+    "French": "Vendre",
+    "English": "Sell",
+    "SampleSentence": "Elle veut vendre sa voiture."
+  },
+  {
+    "French": "Acheter",
+    "English": "Buy",
+    "SampleSentence": "O\u00f9 puis-je acheter du pain?"
+  },
+  {
+    "French": "Parler",
+    "English": "Speak",
+    "SampleSentence": "Je vais parler fran\u00e7ais."
+  },
+  {
+    "French": "Suivre",
+    "English": "Follow",
+    "SampleSentence": "Nous allons suivre le fleuve."
+  },
+  {
+    "French": "Entendre",
+    "English": "Hear",
+    "SampleSentence": "J'entends une chanson."
+  },
+  {
+    "French": "Marcher",
+    "English": "Walk",
+    "SampleSentence": "Je vais marcher dans le parc."
+  },
+  {
+    "French": "Courir",
+    "English": "Run",
+    "SampleSentence": "Je vais courir trois miles."
+  },
+  {
+    "French": "Sauter",
+    "English": "Jump",
+    "SampleSentence": "Elle aime sauter \u00e0 la corde."
+  },
+  {
+    "French": "Danser",
+    "English": "Dance",
+    "SampleSentence": "Ils vont danser cette nuit."
+  },
+  {
+    "French": "Pratiquer",
+    "English": "Practice",
+    "SampleSentence": "Elle aime pratiquer le yoga."
+  },
+  {
+    "French": "M\u00e9diter",
+    "English": "Meditate",
+    "SampleSentence": "Il m\u00e9dite tous les jours."
+  },
+  {
+    "French": "Respirer",
+    "English": "Breathe",
+    "SampleSentence": "Respirez profond\u00e9ment."
+  },
+  {
+    "French": "S'\u00e9tirer",
+    "English": "Stretch",
+    "SampleSentence": "Nous devrions nous \u00e9tirer r\u00e9guli\u00e8rement."
+  },
+  {
+    "French": "Soulever",
+    "English": "Lift",
+    "SampleSentence": "Il peut soulever beaucoup de poids."
+  },
+  {
+    "French": "Pousser",
+    "English": "Push",
+    "SampleSentence": "Elle peut pousser la voiture."
+  },
+  {
+    "French": "Tirer",
+    "English": "Pull",
+    "SampleSentence": "Je vais tirer la porte ouverte."
+  },
+  {
+    "French": "Tenir",
+    "English": "Hold",
+    "SampleSentence": "Tiens cette corde."
+  },
+  {
+    "French": "Garder",
+    "English": "Keep",
+    "SampleSentence": "Gardez-le en s\u00e9curit\u00e9."
+  },
+  {
+    "French": "Ecarter",
+    "English": "Spread",
+    "SampleSentence": "Elle va \u00e9carter les bras."
+  },
+  {
+    "French": "Reposer",
+    "English": "Rest",
+    "SampleSentence": "Il devrait se reposer plus souvent."
+  },
+  {
+    "French": "Dormir",
+    "English": "Sleep",
+    "SampleSentence": "Je vais dormir maintenant."
+  },
+  {
+    "French": "R\u00e9veiller",
+    "English": "Wake up",
+    "SampleSentence": "Elle va se r\u00e9veiller t\u00f4t."
+  },
+  {
+    "French": "S'\u00e9tirer",
+    "English": "Yoga",
+    "SampleSentence": "Je fais du yoga pour me d\u00e9tendre."
+  },
+  {
+    "French": "Muscle",
+    "English": "Muscle",
+    "SampleSentence": "Il a un muscle fort."
+  },
+  {
+    "French": "R\u00e9gime",
+    "English": "Diet",
+    "SampleSentence": "Elle suit un r\u00e9gime strict."
+  },
+  {
+    "French": "Pilates",
+    "English": "Pilates",
+    "SampleSentence": "Elle fait du pilates tous les jours."
+  },
+  {
+    "French": "Cardio",
+    "English": "Cardio",
+    "SampleSentence": "Elle fait du cardio trois fois par semaine."
+  },
+  {
+    "French": "Musculation",
+    "English": "Strength training",
+    "SampleSentence": "La musculation est importante pour la sant\u00e9."
+  },
+  {
+    "French": "Prendre une pause",
+    "English": "Take a break",
+    "SampleSentence": "Je vais prendre une pause maintenant."
+  }
+]
