@@ -28,8 +28,8 @@ async function setupOffscreenDocument(path) {
   } else {
     creating = chrome.offscreen.createDocument({
       url: path,
-      reasons: ['CLIPBOARD'],
-      justification: 'reason for needing the document',
+      reasons: ['AUDIO_PLAYBACK'],
+      justification: 'Playback audio & alerts',
     });
     await creating;
     creating = null;
