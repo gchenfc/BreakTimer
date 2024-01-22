@@ -60,8 +60,10 @@ function populate_yoga(display) {
 
 function populate_french(display) {
     if (display) {
-        var json_obj = JSON.parse(Get("assets/french_words_1.json"));
-        var word = json_obj[getRandomInt(json_obj.length)];
+        var json_obj = JSON.parse(Get("assets/french_words_by_freq.json"));
+        // var word = json_obj[getRandomInt(json_obj.length)];
+        var wordIndex = getRandomZipfIndex(json_obj.length);
+        var word = json_obj[wordIndex];
         this.document.getElementById("word").innerHTML = word.French + " = " + word.English;
         this.document.getElementById("example").innerHTML = "Par exemple: " + word.SampleSentence;
     } else {
