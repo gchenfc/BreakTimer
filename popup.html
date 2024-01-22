@@ -3,62 +3,83 @@
   <head>
     <title>BreakTimer</title>
     <style>
-    body {
-      overflow: hidden;
-      margin: 0px;
-      padding: 0px;
-      background: white;
-      width: 250px;
-    }
+      body {
+        overflow: hidden;
+        margin: 0px;
+        padding: 0px;
+        background: white;
+        width: 250px;
+      }
 
-    div:first-child {
-      margin-top: 0px;
-    }
+      .button_div:first-child {
+        margin-top: 0px;
+      }
 
-    div {
-      cursor: pointer;
-      text-align: center;
-      padding: 1px 3px;
-      font-family: sans-serif;
-      font-size: 1.5em;
-      width: 100%;
-      margin-top: 1px;
-      background: #cccccc;
-    }
-    div:hover {
-      background: #aaaaaa;
-    }
+      .button_div {
+        cursor: pointer;
+        text-align: center;
+        padding: 1px 3px;
+        font-family: sans-serif;
+        font-size: 1.5em;
+        width: 100%;
+        margin-top: 1px;
+        background: #cccccc;
+      }
+      .button_div:hover {
+        background: #aaaaaa;
+      }
 
-    table {
-      font-size: 1.5em;
-      padding: 0;
-      margin: 0;
-      border-spacing: 0;
-    }
-    table td {
-      padding: 0 5px;
-    }
-    table tr:nth-child(even) {
-      background-color: #eee;
-    }
-    table tr:nth-child(odd) {
-      background-color: #fff;
-    }
-    input {
-      width: 30px;
-    }
+      table {
+        font-size: 1.5em;
+        padding: 0;
+        margin: 0;
+        border-spacing: 0;
+      }
+      table td {
+        padding: 0 5px;
+      }
+      table tr:nth-child(even) {
+        background-color: #eee;
+      }
+      table tr:nth-child(odd) {
+        background-color: #fff;
+      }
+      input {
+        width: 30px;
+      }
+      h3 {
+        margin: 5px;
+      }
     </style>
     <script src="popup.js"></script>
+    <script src="popup_options.js"></script>
   </head>
   <body>
-    <div id="on">Manual Start BreakTimer</div>
-    <div id="off">Manual Disable BreakTimer</div>
+    <div class="button_div" id="on">Manual Start BreakTimer</div>
+    <div class="button_div" id="off">Manual Disable BreakTimer</div>
     <table>
       <tr><td style="width:200px">Current Status: </td><td colspan="2" id="status"></td></tr>
       <tr><td style="width:200px">Time Remaining: </td><td id="remaining"></td><td>min</td></tr>
       <tr><td style="width:200px">Interval: </td><td><input type="text" id="interval" /></td><td>min</td></tr>
       <tr><td style="width:200px">Duration: </td><td><input type="text" id="duration" /></td><td>min</td></tr>
     </table>
+
+    <div>
+      <br />
+      <h3>Break Page Options:</h3>
+      <input type="checkbox" id="french_word" name="french_word">
+      <label for="french_word">French Word</label><br>
+
+      <input type="checkbox" id="yoga_pose" name="yoga_pose">
+      <label for="yoga_pose">Yoga Pose</label><br>
+      
+      <input type="checkbox" id="quote" name="quote">
+      <label for="quote">Inspirational Quote</label><br>
+
+      <input type="checkbox" id="AI_img" name="AI_img">
+      <label for="AI_img">AI "inspirational" image</label><br>
+    </div>
+
     <audio id="start" src="assets/startwork.mp3" preload="auto"></audio>
   </body>
 </html>
