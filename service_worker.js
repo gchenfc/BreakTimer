@@ -77,14 +77,19 @@ function openPopup() {
 
 var onbreak = false;
 
-
-
+async function closePopup() {
+  const breaktime_tab = await chrome.tabs.query({url: "chrome-extension://*/breaktime.html"});
+  for (const tab of breaktime_tab) {
+    chrome.tabs.remove(tab.id);
+  }
+}
 
 function startWork(with_audio=true) {
   if (with_audio) {
     play_audio("startwork");
   }
 
+  closePopup();
 
   chrome.storage.local.set({breaktimer: {status: "Working",
                                          starttime: Date.now()}});
