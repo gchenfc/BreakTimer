@@ -62,7 +62,7 @@ function populate_french(display) {
     if (display) {
         var json_obj = JSON.parse(Get("assets/french_words_1.json"));
         var word = json_obj[getRandomInt(json_obj.length)];
-        this.document.getElementById("word").innerHTML = word.French + " : " + word.English;
+        this.document.getElementById("word").innerHTML = word.French + " = " + word.English;
         this.document.getElementById("example").innerHTML = "Par exemple: " + word.SampleSentence;
     } else {
         this.document.getElementById("french").style.display = 'none';
