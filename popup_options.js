@@ -4,10 +4,10 @@ function updateCheckboxState() {
     'AI_img': false,
     'quote': true,
     'yoga_pose': true,
-    'yoga_pose_name': true,
-    'yoga_pose_desc': false,
-    'yoga_pose_img': false,
-    'french_word': false
+    // 'yoga_pose_name': true,
+    // 'yoga_pose_desc': false,
+    // 'yoga_pose_img': false,
+    'french_word': true,
   };
 
   Object.entries(checkboxes_defaults).forEach(([id, defaultValue]) => {
@@ -20,6 +20,12 @@ function updateCheckboxState() {
         checkbox.disabled = !document.getElementById('yoga_pose').checked;
         checkbox.parentElement.style.color = checkbox.disabled ? 'gray' : 'black';
       }
+
+      if (['french_word'].includes(id)) {
+        updateZipfParamVisibility();
+      }
+
+      saveCheckboxState(id);
     });
   });
 
@@ -43,6 +49,13 @@ function saveZipfParameter(id) {
   state[id] = parseFloat(input.value);
   chrome.storage.sync.set(state);
 }
+function updateZipfParamVisibility() {
+  if (document.getElementById('french_word').checked) {
+    document.getElementById('zipf_parameter').parentElement.style.display = 'block';
+  } else {
+    document.getElementById('zipf_parameter').parentElement.style.display = 'none';
+  }
+}
 
 // Event listener for checkboxes
 function setupListeners() {
@@ -54,6 +67,7 @@ function setupListeners() {
   document.getElementById('zipf_parameter').addEventListener('change', () => {
     saveZipfParameter('zipf_parameter');
   });
+  document.getElementById('french_word').addEventListener('change', updateZipfParamVisibility);
 }
 
 // Initialize the script
