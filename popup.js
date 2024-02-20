@@ -68,10 +68,11 @@ function updatelabels() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  chrome.storage.local.get('btcache', function(data) {
-    if (data.btcache !== undefined) {
-      interval = data.btcache.interval;
-      duration = data.btcache.duration;
+
+  chrome.storage.sync.get('breaktimer', function(data) {
+    if (data.breaktimer !== undefined) {
+      interval = data.breaktimer.interval;
+      duration = data.breaktimer.duration;
     }
     updatelabels();
     inputinterval = document.getElementById("interval");
@@ -84,25 +85,25 @@ document.addEventListener('DOMContentLoaded', function () {
                                             duration: duration}});
     }
     inputinterval.addEventListener("keyup", function(event) {
+      console.log(event.keyCode, event.key);
       // Number 13 is the "Enter" key on the keyboard
-      if (event.keyCode === 13) {
+      if ((event.keyCode === 13) || (event.key === 'Tab')) {  // TODO: tab doesn't work
         event.preventDefault();
         interval = parseFloat(inputinterval.value);
         updatesync();
 
         // correct alarm timer
-        chrome.storage.local.get('breaktimer', function(data) {
+        chrome.storage.local.get("breaktimer", function (data) {
           chrome.alarms.clear("alarm");
-          chrome.alarms.create("alarm",
-          {
-            when: interval*60*1000 + data.breaktimer.starttime
+          chrome.alarms.create("alarm", {
+            when: interval * 60 * 1000 + data.breaktimer.starttime,
           });
-        })
+        });
       }
     });
     inputduration.addEventListener("keyup", function(event) {
       // Number 13 is the "Enter" key on the keyboard
-      if (event.keyCode === 13) {
+      if ((event.keyCode === 13) || event.key == 'Tab') {
         event.preventDefault();
         duration = parseFloat(inputduration.value) * 60;
         updatesync();
@@ -118,13 +119,6 @@ document.addEventListener('DOMContentLoaded', function () {
   for (var i = 0; i < divs.length; i++) {
     divs[i].addEventListener('click', click);
   }
-
-  chrome.storage.sync.get('breaktimer', function(data) {
-    interval = data.breaktimer.interval;
-    duration = data.breaktimer.duration;
-    chrome.storage.local.set({'btcache': {interval: interval,
-                                          duration: duration}});
-  });
 });
 
 // chrome.alarms.onAlarm.addListener(function (alarm) {
@@ -139,8 +133,6 @@ chrome.storage.onChanged.addListener(function (changes, areaname) {
     if (changes.breaktimer !== undefined) {
       interval = changes.breaktimer.newValue.interval;
       duration = changes.breaktimer.newValue.duration;
-      chrome.storage.local.set({'btcache': {interval: interval,
-                                            duration: duration}});
     }
   }
   if (areaname == "local") {

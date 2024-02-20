@@ -9,8 +9,6 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
 
-var breakDuration = 10;
-
 function tElapsedToS(tstart) {
     return Math.round((Date.now() - tstart) / 1000);
 }
@@ -73,13 +71,34 @@ function populate_french(display) {
     }
 }
 
-window.onload = function() {
-    chrome.storage.local.get('btdur', function(data) {
-        if (data.btdur !== undefined) {
-            breakDuration = data.btdur;
-        }
-    });
+var breakDuration = 10;
+var status = "Working";
+var tstart = Date.now();
 
+async function setup() {
+    ({ breaktimer: {duration: breakDuration} } = await chrome.storage.sync.get("breaktimer"));
+    ({ breaktimer: {status, starttime: tstart} } = await chrome.storage.local.get("breaktimer"));
+    if (status == "Relaxing") {
+        this.document.getElementById("time").innerHTML = secondsToString(breakDuration - tElapsedToS(tstart));
+    } else {
+        this.document.getElementById("time").innerHTML = "Still Working...";
+        this.document.getElementById("start_break").onclick = startBreak;
+        this.document.getElementById("start_break").style.display = 'block';
+    }
+    console.log(`status: ${status}, tstart: ${tstart}, breakDuration: ${breakDuration}`);
+    console.log(await chrome.storage.local.get("breaktimer"));
+}
+
+// only called when the user clicks the "Start Break" button
+function startBreak() {
+    status = "Relaxing";
+    tstart = Date.now();
+    chrome.storage.local.set({ breaktimer: { status: status, starttime: tstart } });
+    document.getElementById("start_break").style.display = 'none';
+    document.getElementById("time").innerHTML = secondsToString(breakDuration - tElapsedToS(tstart));
+}
+
+window.onload = function() {
     const func_opts = {
       AI_img: populate_ai_img,
       quote: populate_quotes,
@@ -92,20 +111,15 @@ window.onload = function() {
         });
     }
 
-    chrome.storage.sync.get('breaktimer', function(data) {
-        breakDuration = data.breaktimer.duration;
-    });
-    chrome.storage.local.set({'btdur': breakDuration}); // cache
-    // this.document.getElementById("break").play();
-
-    var tstart = Date.now();
-    chrome.storage.local.get('breaktimer', function(data) {
-        tstart = data.breaktimer.starttime;
-        this.document.getElementById("time").innerHTML = secondsToString(breakDuration - tElapsedToS(tstart));
-    });
-    this.document.getElementById("time").innerHTML = secondsToString(breakDuration - tElapsedToS(tstart));
+    setup();
 
     var countdown = window.setInterval(function () {
+        if (status == "Working") {
+            this.document.getElementById("time").innerHTML = "Still Working...";
+            this.document.getElementById("start_break").onclick = startBreak;
+            this.document.getElementById("start_break").style.display = 'block';
+            return;
+        }
         if (tElapsedToS(tstart) >= breakDuration) {
             window.clearInterval(countdown);
             this.document.getElementById("time").innerHTML = "Break Done!!!";
