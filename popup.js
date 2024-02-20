@@ -85,25 +85,25 @@ document.addEventListener('DOMContentLoaded', function () {
                                             duration: duration}});
     }
     inputinterval.addEventListener("keyup", function(event) {
+      console.log(event.keyCode, event.key);
       // Number 13 is the "Enter" key on the keyboard
-      if (event.keyCode === 13) {
+      if ((event.keyCode === 13) || (event.key === 'Tab')) {  // TODO: tab doesn't work
         event.preventDefault();
         interval = parseFloat(inputinterval.value);
         updatesync();
 
         // correct alarm timer
-        chrome.storage.local.get('breaktimer', function(data) {
+        chrome.storage.local.get("breaktimer", function (data) {
           chrome.alarms.clear("alarm");
-          chrome.alarms.create("alarm",
-          {
-            when: interval*60*1000 + data.breaktimer.starttime
+          chrome.alarms.create("alarm", {
+            when: interval * 60 * 1000 + data.breaktimer.starttime,
           });
-        })
+        });
       }
     });
     inputduration.addEventListener("keyup", function(event) {
       // Number 13 is the "Enter" key on the keyboard
-      if (event.keyCode === 13) {
+      if ((event.keyCode === 13) || event.key == 'Tab') {
         event.preventDefault();
         duration = parseFloat(inputduration.value) * 60;
         updatesync();
