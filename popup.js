@@ -68,10 +68,11 @@ function updatelabels() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  chrome.storage.local.get('btcache', function(data) {
-    if (data.btcache !== undefined) {
-      interval = data.btcache.interval;
-      duration = data.btcache.duration;
+
+  chrome.storage.sync.get('breaktimer', function(data) {
+    if (data.breaktimer !== undefined) {
+      interval = data.breaktimer.interval;
+      duration = data.breaktimer.duration;
     }
     updatelabels();
     inputinterval = document.getElementById("interval");
@@ -118,13 +119,6 @@ document.addEventListener('DOMContentLoaded', function () {
   for (var i = 0; i < divs.length; i++) {
     divs[i].addEventListener('click', click);
   }
-
-  chrome.storage.sync.get('breaktimer', function(data) {
-    interval = data.breaktimer.interval;
-    duration = data.breaktimer.duration;
-    chrome.storage.local.set({'btcache': {interval: interval,
-                                          duration: duration}});
-  });
 });
 
 // chrome.alarms.onAlarm.addListener(function (alarm) {
@@ -139,8 +133,6 @@ chrome.storage.onChanged.addListener(function (changes, areaname) {
     if (changes.breaktimer !== undefined) {
       interval = changes.breaktimer.newValue.interval;
       duration = changes.breaktimer.newValue.duration;
-      chrome.storage.local.set({'btcache': {interval: interval,
-                                            duration: duration}});
     }
   }
   if (areaname == "local") {

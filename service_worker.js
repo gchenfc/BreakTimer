@@ -106,9 +106,6 @@ chrome.runtime.onInstalled.addListener(function() {
   });
   chrome.storage.local.set({breaktimer: {status: "idle",
                                          starttime: Date.now()} });
-  chrome.storage.local.set({'btcache': {interval: interval,
-                                        duration: duration}});
-  chrome.storage.local.set({'btdur': duration}); // cache
   startWork();
 });
 
