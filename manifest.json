@@ -1,7 +1,7 @@
 {
   "name": "BreakTimer",
   "description": "Monitor how long you've been working to suggest break times",
-  "version": "1.1",
+  "version": "1.2",
   "permissions": [
     "activeTab",
     "tabs",
