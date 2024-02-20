@@ -28,7 +28,7 @@ async function setupOffscreenDocument(path) {
   } else {
     creating = chrome.offscreen.createDocument({
       url: path,
-      reasons: ['AUDIO_PLAYBACK'],
+      reasons: ['AUDIO_PLAYBACK', 'LOCAL_STORAGE'],
       justification: 'Playback audio & alerts',
     });
     await creating;
