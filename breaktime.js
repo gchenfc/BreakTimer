@@ -9,8 +9,6 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
 
-var breakDuration = 10;
-
 function tElapsedToS(tstart) {
     return Math.round((Date.now() - tstart) / 1000);
 }
@@ -91,6 +89,15 @@ async function setup() {
     console.log(await chrome.storage.local.get("breaktimer"));
 }
 
+// only called when the user clicks the "Start Break" button
+function startBreak() {
+    status = "Relaxing";
+    tstart = Date.now();
+    chrome.storage.local.set({ breaktimer: { status: status, starttime: tstart } });
+    document.getElementById("start_break").style.display = 'none';
+    document.getElementById("time").innerHTML = secondsToString(breakDuration - tElapsedToS(tstart));
+}
+
 window.onload = function() {
     const func_opts = {
       AI_img: populate_ai_img,
@@ -107,6 +114,12 @@ window.onload = function() {
     setup();
 
     var countdown = window.setInterval(function () {
+        if (status == "Working") {
+            this.document.getElementById("time").innerHTML = "Still Working...";
+            this.document.getElementById("start_break").onclick = startBreak;
+            this.document.getElementById("start_break").style.display = 'block';
+            return;
+        }
         if (tElapsedToS(tstart) >= breakDuration) {
             window.clearInterval(countdown);
             this.document.getElementById("time").innerHTML = "Break Done!!!";

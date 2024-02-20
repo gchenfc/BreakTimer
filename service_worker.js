@@ -37,7 +37,7 @@ async function setupOffscreenDocument(path) {
 }
 async function send_to_offscreen(obj) {
   await setupOffscreenDocument('offscreen.html');
-  await chrome.runtime.sendMessage(obj);
+  return await chrome.runtime.sendMessage(obj);
 }
 
 async function play_audio(name) {
@@ -48,9 +48,12 @@ async function do_alert(msg) {
   await send_to_offscreen({action: "alert", message: msg});
 }
 
+async function do_confirm(msg) {
+  return await send_to_offscreen({action: "confirm", message: msg});
+}
+
 function openPopup() {
     // popupWindow = openWindow('breaktime.html');
-    chrome.tabs.create({url: "breaktime.html"});
     // popupWindow = window.open('breaktime.html');
     // play_audio('breakalert');
     // do_alert("Time to take a break!!! Click 'ok' to start the break.");
@@ -58,21 +61,15 @@ function openPopup() {
     // We want to play the sound then display the alert, but offscreen makes this annoying
     (async () => {
       await play_audio('breakalert');
-      await do_alert("Time to take a break!!! Click 'ok' to start the break.");
+      // await do_alert("Time to take a break!!! Click 'ok' to start the break.");
+      const resp = await do_confirm("Time to take a break!!! Click 'ok' to start the break or 'cancel' to delay the break (popup in background).");
+      await chrome.tabs.create({url: "breaktime.html", active: resp});
+      if (resp) {
+        chrome.storage.local.set({
+          breaktimer: { status: "Relaxing", starttime: Date.now() },
+        });
+      }
     })();
-
-    chrome.storage.local.set({breaktimer: {status: "Relaxing",
-                                           starttime: Date.now()}});
-
-    setTimeout(function () {
-      chrome.storage.local.get('breaktimer', function(data) {
-        if (data.breaktimer.status == "Relaxing") {
-          play_audio('autowork');
-          startWork(false);
-          onbreak = false;
-        };
-      });
-    }, (duration+3) * 1000);
 }
 
 var onbreak = false;

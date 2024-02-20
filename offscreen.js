@@ -9,4 +9,8 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
     console.log(`alerting ${request.message}`);
     alert(request.message);
   }
+  if (request.action == "confirm") {
+    console.log(`confirming ${request.message}`);
+    sendResponse(confirm(request.message));
+  }
 });
