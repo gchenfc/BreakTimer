@@ -98,6 +98,13 @@ function startBreak() {
     document.getElementById("time").innerHTML = secondsToString(breakDuration - tElapsedToS(tstart));
 }
 
+async function play_sound(name) {
+  const to_play = await chrome.storage.sync.get("play_sound");
+  if (to_play.play_sound) {
+    document.getElementById(name).play();
+  }
+}
+
 window.onload = function() {
     const func_opts = {
       AI_img: populate_ai_img,
@@ -123,7 +130,7 @@ window.onload = function() {
         if (tElapsedToS(tstart) >= breakDuration) {
             window.clearInterval(countdown);
             this.document.getElementById("time").innerHTML = "Break Done!!!";
-            this.document.getElementById("return").play();
+            play_sound("return");
             chrome.storage.local.set({'breaktimer': {'status': 'breakdone',
                                                      'starttime': Date.now()}})
         } else {

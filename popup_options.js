@@ -8,6 +8,7 @@ function updateCheckboxState() {
     // 'yoga_pose_desc': false,
     // 'yoga_pose_img': false,
     'french_word': true,
+    'play_sound': true,
   };
 
   Object.entries(checkboxes_defaults).forEach(([id, defaultValue]) => {

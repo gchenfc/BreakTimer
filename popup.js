@@ -24,6 +24,13 @@ function setStatus(status) {
   }
 }
 
+async function play_start_sound() {
+  const to_play = await chrome.storage.sync.get("play_sound");
+  if (to_play.play_sound) {
+    document.getElementById("start").play();
+  }
+}
+
 function click(e) {
   if (e.target.id == "on") {
     chrome.alarms.get("alarm", function (alarm) {
@@ -38,7 +45,7 @@ function click(e) {
           delayInMinutes: interval
         });
         setStatus("Working");
-        this.document.getElementById("start").play();
+        play_start_sound();
       }
     });
   } else if (e.target.id == "off") {
