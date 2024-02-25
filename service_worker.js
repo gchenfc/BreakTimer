@@ -41,7 +41,10 @@ async function send_to_offscreen(obj) {
 }
 
 async function play_audio(name) {
-  await send_to_offscreen({action: "sound", file: `assets/${name}.mp3`});
+  const to_play = await chrome.storage.sync.get("play_sound");
+  if (to_play.play_sound) {
+    await send_to_offscreen({action: "sound", file: `assets/${name}.mp3`});
+  }
 }
 
 async function do_alert(msg) {
